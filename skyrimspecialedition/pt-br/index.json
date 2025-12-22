@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "version": 1,
+    "last_update": "2025-12-22",
+    "maintainer": "Official List"
+  },
+  "entries": {
+    "12604": {
+      "original_name": "SkyUI",
+      "best_translation": {
+        "nexus_id": 12220,
+        "file_id": 0,
+        "mod_version": "5.2SE",
+        "author": "Jelmo",
+        "lang": "pt-br"
+      }
+    },
+    "245": {
+        "original_name": "Unofficial Skyrim Special Edition Patch",
+        "best_translation": {
+            "nexus_id": 15053,
+            "file_id": 0,
+            "mod_version": "4.3.0",
+            "author": "Unofficial Team",
+            "lang": "pt-br"
+        }
+    }
+  }
+}
