@@ -1,17 +1,11 @@
-{
-  "meta": {
-    "version": 2,
-    "last_update": "2025-12-22",
-    "maintainer": "Thiago Alcr"
-  },
-  "entries": {
-    "8f054b659cc12af7baed1048188fdab4": {
+"8f054b659cc12af7baed1048188fdab4": {
       "original_name": "360 Ward (Hash Verified)",
       "best_translation": {
         "trans_mod_id": 163169,
         "trans_file_id": 682115,
         "mod_version": "3.0",
-        "author": "Community",
+        "translation_version": "1.0",  <-- NOVO CAMPO
+        "author": "Community (Hash Verified)",
         "lang": "pt-br"
       }
     },
@@ -21,9 +15,8 @@
         "trans_mod_id": 90076,
         "trans_file_id": 623797,
         "mod_version": "3.1.6",
-        "author": "Community",
+        "translation_version": "2.1", <-- NOVO CAMPO
+        "author": "Community (Via ID)",
         "lang": "pt-br"
       }
     }
-  }
-}
