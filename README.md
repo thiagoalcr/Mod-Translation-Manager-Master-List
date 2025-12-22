@@ -1,1 +1,2 @@
-# Mod-Translation-Manager-Master-List
+# Mod Translation Manager 
+## Community Master List
