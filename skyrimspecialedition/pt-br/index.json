@@ -1,29 +1,29 @@
 {
   "meta": {
-    "version": 1,
+    "version": 2,
     "last_update": "2025-12-22",
-    "maintainer": "Official List"
+    "maintainer": "Thiago Alcr"
   },
   "entries": {
-    "12604": {
-      "original_name": "SkyUI",
+    "8f054b659cc12af7baed1048188fdab4": {
+      "original_name": "360 Ward (Hash Verified)",
       "best_translation": {
-        "nexus_id": 12220,
-        "file_id": 0,
-        "mod_version": "5.2SE",
-        "author": "Jelmo",
+        "trans_mod_id": 163169,
+        "trans_file_id": 682115,
+        "mod_version": "3.0",
+        "author": "Comunidade (Via Hash)",
         "lang": "pt-br"
       }
     },
-    "245": {
-        "original_name": "Unofficial Skyrim Special Edition Patch",
-        "best_translation": {
-            "nexus_id": 15053,
-            "file_id": 0,
-            "mod_version": "4.3.0",
-            "author": "Unofficial Team",
-            "lang": "pt-br"
-        }
+    "83329": {
+      "original_name": "Abyss",
+      "best_translation": {
+        "trans_mod_id": 90076,
+        "trans_file_id": 623797,
+        "mod_version": "3.1.6",
+        "author": "Comunidade (Via ID)",
+        "lang": "pt-br"
+      }
     }
   }
 }
