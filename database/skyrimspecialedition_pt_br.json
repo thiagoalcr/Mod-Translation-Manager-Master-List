@@ -1,1 +1,88 @@
-
+{
+  "entries": {
+    "06949a044db2f1a8b966ce5bad96f764": {
+      "best_translation": {
+        "lang": "pt-br",
+        "mod_version": "1.8.7.0",
+        "trans_file_id": 628259,
+        "trans_mod_id": 122060,
+        "translation_version": "1.0"
+      },
+      "original_id": "21654",
+      "original_name": "AI Overhaul SSE"
+    },
+    "0e194f4b9fe84c2c01a5e8ba0f6147c3": {
+      "best_translation": {
+        "lang": "pt-br",
+        "mod_version": "1.5.5.0",
+        "trans_file_id": 558314,
+        "trans_mod_id": 132988,
+        "translation_version": "1.0"
+      },
+      "original_id": "121215",
+      "original_name": "A Secret to Hide"
+    },
+    "14ac78d5113339ac1438c657ece2b4f6": {
+      "best_translation": {
+        "lang": "pt-br",
+        "mod_version": "1.54.0.0",
+        "trans_file_id": 576285,
+        "trans_mod_id": 137352,
+        "translation_version": "1.0"
+      },
+      "original_id": "115106",
+      "original_name": "Ancient Blood Magic II"
+    },
+    "8f054b659cc12af7baed1048188fdab4": {
+      "best_translation": {
+        "lang": "pt-br",
+        "mod_version": "3.0.0.0",
+        "trans_file_id": 682115,
+        "trans_mod_id": 163169,
+        "translation_version": "1.0"
+      },
+      "original_id": "156225",
+      "original_name": "360 Ward"
+    },
+    "9285b6aacad2b34b4495b7fbae328912": {
+      "best_translation": {
+        "lang": "pt-br",
+        "mod_version": "Unknown",
+        "trans_file_id": 478071,
+        "trans_mod_id": 90076,
+        "translation_version": "1.0"
+      },
+      "original_id": "83329",
+      "original_name": "Abyss"
+    },
+    "b0ec7a0b946cd98234f36de3f4392fdc": {
+      "best_translation": {
+        "lang": "pt-br",
+        "mod_version": "1.7.0.0",
+        "trans_file_id": 630625,
+        "trans_mod_id": 120874,
+        "translation_version": "1.0"
+      },
+      "original_id": "108159",
+      "original_name": "Acheron - Death Alternative"
+    },
+    "c091bc9b247bc0306a1861d16f938c16": {
+      "best_translation": {
+        "lang": "pt-br",
+        "mod_version": "2.1.0.0",
+        "trans_file_id": 653179,
+        "trans_mod_id": 156298,
+        "translation_version": "1.0"
+      },
+      "original_id": "23673",
+      "original_name": "Choose Your Sign"
+    }
+  },
+  "meta": {
+    "exported_at": "2025-12-23T10:46:23.049553",
+    "game": "skyrimspecialedition",
+    "lang": "pt-br",
+    "maintainer": "User Export",
+    "version": 2
+  }
+}
