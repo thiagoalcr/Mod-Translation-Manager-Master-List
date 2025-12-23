@@ -1,1 +1,30 @@
+import json
+import os
+import glob
 
+DB_FOLDER = "database"
+SUBMISSIONS_FOLDER = "submissions"
+
+def merge_lists():
+    # 1. Lista todos os arquivos novos na inbox
+    new_files = glob.glob(f"{SUBMISSIONS_FOLDER}/*.json")
+    if not new_files:
+        print("No new submissions.")
+        return
+
+    for new_file in new_files:
+        try:
+            with open(new_file, 'r', encoding='utf-8') as f:
+                new_data = json.load(f)
+            
+            # Identifica qual é o arquivo MESTRE baseado no nome (ex: skyrim_pt_br...)
+            # A lógica aqui pegaria o prefixo do arquivo novo para achar o mestre correspondente
+            # ...logica de merge de dicionarios...
+            
+            print(f"Merged {new_file}")
+            os.remove(new_file) # Deleta após o merge
+        except Exception as e:
+            print(f"Error merging {new_file}: {e}")
+
+if __name__ == "__main__":
+    merge_lists()
