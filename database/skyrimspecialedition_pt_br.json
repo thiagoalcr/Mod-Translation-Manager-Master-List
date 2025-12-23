@@ -14,7 +14,7 @@
     "0c537a9cc667e229a327a5aa7324b24b": {
       "best_translation": {
         "lang": "pt_br",
-        "mod_version": "?",
+        "mod_version": "1.1.7",
         "trans_file_id": 623804,
         "trans_mod_id": 91799,
         "translation_version": "1.1.7"
@@ -22,10 +22,32 @@
       "original_id": "91602",
       "original_name": "Arcane"
     },
+    "0e194f4b9fe84c2c01a5e8ba0f6147c3": {
+      "best_translation": {
+        "lang": "pt_br",
+        "mod_version": "1.5.5.0",
+        "trans_file_id": 558314,
+        "trans_mod_id": 132988,
+        "translation_version": "1.5.1"
+      },
+      "original_id": "121215",
+      "original_name": "A Secret to Hide"
+    },
+    "14ac78d5113339ac1438c657ece2b4f6": {
+      "best_translation": {
+        "lang": "pt_br",
+        "mod_version": "1.54.0.0",
+        "trans_file_id": 576285,
+        "trans_mod_id": 137352,
+        "translation_version": "1.54"
+      },
+      "original_id": "115106",
+      "original_name": "Ancient Blood Magic II"
+    },
     "9285b6aacad2b34b4495b7fbae328912": {
       "best_translation": {
         "lang": "pt_br",
-        "mod_version": "?",
+        "mod_version": "3.1.6",
         "trans_file_id": 623797,
         "trans_mod_id": 90076,
         "translation_version": "3.1.6"
@@ -47,7 +69,7 @@
     "c119b5813c3a887161022dce3d7fc72a": {
       "best_translation": {
         "lang": "pt_br",
-        "mod_version": "?",
+        "mod_version": "1",
         "trans_file_id": 598922,
         "trans_mod_id": 142836,
         "translation_version": "1.0"
