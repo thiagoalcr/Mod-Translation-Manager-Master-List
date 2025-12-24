@@ -1,4 +1,4 @@
-name: Validate JSON
+name: Validate JSON Integrity
 
 on:
   pull_request:
@@ -23,8 +23,13 @@ jobs:
           import glob
           import sys
 
+          # Pega arquivos das duas pastas
           files = glob.glob('database/*.json') + glob.glob('submissions/*.json')
           has_error = False
+
+          if not files:
+              print("⚠️ Nenhum arquivo JSON encontrado para validar.")
+              sys.exit(0)
 
           for file in files:
             try:
