@@ -76,6 +76,39 @@
       },
       "original_id": "140245",
       "original_name": "[ELLE] Sena"
+    },
+    "193b3d86f131ce60e5f66cea86f3e63a": {
+      "best_translation": {
+        "lang": "pt_br",
+        "mod_version": "2.5.1",
+        "trans_file_id": 454183,
+        "trans_mod_id": 107549,
+        "translation_version": "2.5.1"
+      },
+      "original_id": "2879",
+      "original_name": "Dragon Souls to Perk Points-2879-2-5-1-1631506085"
+    },
+    "a067e1de85b4aedf7719cd8219ffd5a5": {
+      "best_translation": {
+        "lang": "pt_br",
+        "mod_version": "1.0",
+        "trans_file_id": 288407,
+        "trans_mod_id": 69030,
+        "translation_version": "1.0"
+      },
+      "original_id": "35785",
+      "original_name": "Expressive Facegen Morphs SE-35785-1-0-1595174141"
+    },
+    "d4a3d32d78dad5e30f6efd40300754d2": {
+      "best_translation": {
+        "lang": "pt_br",
+        "mod_version": "3.06",
+        "trans_file_id": 101876,
+        "trans_mod_id": 27998,
+        "translation_version": "3.06"
+      },
+      "original_id": "2424",
+      "original_name": "Enhanced Lights and FX-2424-3-06"
     }
   }
 }
