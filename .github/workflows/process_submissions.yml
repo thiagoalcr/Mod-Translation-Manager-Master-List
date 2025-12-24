@@ -1,0 +1,46 @@
+name: Process Submissions
+
+# Roda apenas quando código novo entra na branch main (após merge do PR)
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'submissions/*.json' # Só aciona se houver arquivos novos aqui
+
+permissions:
+  contents: write # Permissão CRÍTICA para o bot poder salvar as alterações
+
+jobs:
+  merge-and-cleanup:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0 # Pega o histórico completo para evitar erros de git
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Run Merge Manager
+        # Executa o script que você criou
+        run: python scripts/merge_manager.py
+
+      - name: Commit and Push Changes
+        # Se o script alterou algo (editou DB e deletou submission), salvamos no git
+        run: |
+          git config --global user.name "MTM Bot"
+          git config --global user.email "bot@mtm.local"
+          
+          # Verifica se houve mudanças
+          if [[ -n $(git status -s) ]]; then
+            git add database/*.json
+            git add submissions/
+            git commit -m "🤖 Auto-merge: Atualizando database e limpando inbox"
+            git push
+          else
+            print("Nenhuma alteração necessária.")
+          fi
