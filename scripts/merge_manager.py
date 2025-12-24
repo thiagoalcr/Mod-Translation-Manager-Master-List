@@ -1,10 +1,10 @@
 import json
 import os
 import glob
-import re
 
-# Configuração das Pastas
-BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+# Configuração das Pastas (Ajuste conforme onde o script é executado)
+# Se rodar da raiz: python scripts/merge_manager.py
+BASE_DIR = os.getcwd() 
 DB_FOLDER = os.path.join(BASE_DIR, "database")
 SUBMISSIONS_FOLDER = os.path.join(BASE_DIR, "submissions")
 
@@ -15,7 +15,6 @@ def ensure_folder(folder):
 def merge_data():
     ensure_folder(DB_FOLDER)
     
-    # 1. Pega todos os JSONs na pasta submissions
     files = glob.glob(os.path.join(SUBMISSIONS_FOLDER, "*.json"))
     
     if not files:
@@ -27,63 +26,69 @@ def merge_data():
     for submission_path in files:
         filename = os.path.basename(submission_path)
         
-        # Pular arquivos de sistema
+        # Pular arquivos ocultos de sistema
         if filename.startswith("."): continue
         
         print(f"Processando: {filename}")
         
         try:
-            # 2. Descobrir quem é o "Pai" (Master) desse arquivo
-            # O App gera: {game}_{lang}_{suffix}.json
-            # Precisamos remover o _{suffix} final para achar o nome do Master.
+            # --- NOVA LÓGICA DE IDENTIFICAÇÃO ---
+            # Divide o nome do arquivo pelo ÚLTIMO underline (_) encontrado.
+            # Ex: skyrimspecialedition_pt_br_TESTE123.json
+            # Parte 1: skyrimspecialedition_pt_br  <-- ESSE É O NOME DO MESTRE
+            # Parte 2: TESTE123.json
             
-            # Regex: Pega tudo até o último underline seguido de alphanumérico e .json
-            # Ex: skyrim_pt_br_123a.json -> skyrim_pt_br
-            match = re.match(r"(.+)_[a-f0-9]+\.json$", filename)
+            parts = filename.rsplit('_', 1)
             
-            if match:
-                master_name = match.group(1) + ".json"
+            if len(parts) > 1:
+                master_name = parts[0] + ".json"
             else:
-                print(f"   [!] Nome de arquivo inválido/antigo: {filename}. Ignorando suffix.")
-                master_name = filename # Tenta usar direto se falhar
+                # Se não tiver underline, assume que o arquivo é o próprio mestre (fallback)
+                master_name = filename
 
             master_path = os.path.join(DB_FOLDER, master_name)
             
-            # 3. Ler a Submissão
+            # Verificação de segurança: O mestre existe?
+            if not os.path.exists(master_path):
+                print(f"   [AVISO] Arquivo mestre '{master_name}' não existe. Será criado um novo.")
+            else:
+                print(f"   [OK] Mesclando com mestre existente: {master_name}")
+
+            # ------------------------------------
+
+            # Ler a Submissão
             with open(submission_path, 'r', encoding='utf-8') as f:
                 sub_data = json.load(f)
             
             sub_entries = sub_data.get('entries', {})
             if not sub_entries:
-                print("   [!] Arquivo vazio ou inválido. Deletando.")
+                print("   [!] Arquivo vazio. Deletando.")
                 os.remove(submission_path)
                 continue
 
-            # 4. Ler (ou Criar) o Master
+            # Ler (ou Criar) o Master
             master_data = {"meta": {"version": 2}, "entries": {}}
             if os.path.exists(master_path):
                 with open(master_path, 'r', encoding='utf-8') as f:
                     master_data = json.load(f)
             
-            # 5. MERGE (A mágica acontece aqui)
-            # Atualiza o dicionário Master com as entradas novas.
-            # Se a chave já existir, a submissão nova SOBRESCREVE a antiga (atualização).
+            # MERGE
             initial_count = len(master_data['entries'])
             master_data['entries'].update(sub_entries)
             final_count = len(master_data['entries'])
             
-            print(f"   -> Merged! Master foi de {initial_count} para {final_count} mods.")
+            print(f"   -> SUCESSO! Master foi de {initial_count} para {final_count} mods.")
 
-            # 6. Salvar Master
+            # Salvar Master
             with open(master_path, 'w', encoding='utf-8') as f:
                 json.dump(master_data, f, indent=2, ensure_ascii=False)
             
-            # 7. Limpar a Inbox (Deletar a submissão)
+            # Limpar a Inbox
             os.remove(submission_path)
             print("   -> Arquivo de submissão deletado.")
 
         except Exception as e:
-            print(f"   [ERRO] Falha ao processar {filename}: {e}")
+            print(f"   [ERRO CRÍTICO] Falha ao processar {filename}: {e}")
 
 if __name__ == "__main__":
     merge_data()
