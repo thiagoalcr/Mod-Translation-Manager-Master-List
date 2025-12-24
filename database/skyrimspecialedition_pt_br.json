@@ -1022,6 +1022,798 @@
       },
       "original_id": "100562",
       "original_name": "Dremora Lines Expansion"
+    },
+    "03a3759082b2d04d6e05f9adfdbba921": {
+      "best_translation": {
+        "lang": "pt_br",
+        "mod_version": "?",
+        "trans_file_id": 699485,
+        "trans_mod_id": 65556,
+        "translation_version": "0.96.00"
+      },
+      "original_id": "32998",
+      "original_name": "GLENMORIL SE"
+    },
+    "08bdfa440325df205eb5668721a0f36c": {
+      "best_translation": {
+        "lang": "pt_br",
+        "mod_version": "1.11.0.0",
+        "trans_file_id": 535433,
+        "trans_mod_id": 92379,
+        "translation_version": "1.11"
+      },
+      "original_id": "91480",
+      "original_name": "NPCs React To Invisibility"
+    },
+    "0d9a86510a18b076cd2606f46c71363d": {
+      "best_translation": {
+        "lang": "pt_br",
+        "mod_version": "1.1.12.0",
+        "trans_file_id": 498853,
+        "trans_mod_id": 98222,
+        "translation_version": "1.1.12"
+      },
+      "original_id": "96876",
+      "original_name": "Gourmet - A Cooking Overhaul"
+    },
+    "0fb144dc3c6d450517f38ec3e9781bdd": {
+      "best_translation": {
+        "lang": "pt_br",
+        "mod_version": "f1.00",
+        "trans_file_id": 498880,
+        "trans_mod_id": 118877,
+        "translation_version": "1.00"
+      },
+      "original_id": "117661",
+      "original_name": "Modern Wait Menu"
+    },
+    "1565c15e165fb34232c35d941f4de41b": {
+      "best_translation": {
+        "lang": "pt_br",
+        "mod_version": "1.1.0.0",
+        "trans_file_id": 346997,
+        "trans_mod_id": 82144,
+        "translation_version": "1.1"
+      },
+      "original_id": "51959",
+      "original_name": "JS Instruments of Skyrim SE"
+    },
+    "174b04d8c7ee83c025da2acb68a49936": {
+      "best_translation": {
+        "lang": "pt_br",
+        "mod_version": "1.2.6.0",
+        "trans_file_id": 572382,
+        "trans_mod_id": 126139,
+        "translation_version": "1.2.6"
+      },
+      "original_id": "94100",
+      "original_name": "The Restless Dead"
+    },
+    "1ac24e1d3e14ab19b406c3ca9cc36b7e": {
+      "best_translation": {
+        "lang": "pt_br",
+        "mod_version": "4.0.5",
+        "trans_file_id": 623794,
+        "trans_mod_id": 89954,
+        "translation_version": "4.0.5"
+      },
+      "original_id": "77826",
+      "original_name": "Natura"
+    },
+    "1c0770aab7f2fc2190ef49d4af38f535": {
+      "best_translation": {
+        "lang": "pt_br",
+        "mod_version": "f1.01",
+        "trans_file_id": 303436,
+        "trans_mod_id": 72400,
+        "translation_version": "1.01"
+      },
+      "original_id": "36506",
+      "original_name": "Cheesemod for EVERYONE"
+    },
+    "215c3bd8cdd530d5b0e26d5f3e175290": {
+      "best_translation": {
+        "lang": "pt_br",
+        "mod_version": "2.0.6",
+        "trans_file_id": 478069,
+        "trans_mod_id": 89999,
+        "translation_version": "2.0.6"
+      },
+      "original_id": "84304",
+      "original_name": "Bloodmoon"
+    },
+    "221031d90b7c4d40ebd53ff9bc5ecd8b": {
+      "best_translation": {
+        "lang": "pt_br",
+        "mod_version": "2.7.0.0",
+        "trans_file_id": 371473,
+        "trans_mod_id": 64831,
+        "translation_version": "2.7"
+      },
+      "original_id": "3850",
+      "original_name": "The Choice is Yours"
+    },
+    "229982449837db6ad491023de59c378e": {
+      "best_translation": {
+        "lang": "pt_br",
+        "mod_version": "1.0.0.0",
+        "trans_file_id": 456144,
+        "trans_mod_id": 108012,
+        "translation_version": "1.0"
+      },
+      "original_id": "107492",
+      "original_name": "NPCs React To Frenzy"
+    },
+    "2503b5d57dafcd257b1a0d93c940786f": {
+      "best_translation": {
+        "lang": "pt_br",
+        "mod_version": "3.2.0.0",
+        "trans_file_id": 431771,
+        "trans_mod_id": 102002,
+        "translation_version": "3.2"
+      },
+      "original_id": "4301",
+      "original_name": "Moon and Star"
+    },
+    "2b1e7f74fd4632fb193994debe5b6d50": {
+      "best_translation": {
+        "lang": "pt_br",
+        "mod_version": "2.0.7",
+        "trans_file_id": 478063,
+        "trans_mod_id": 90024,
+        "translation_version": "2.0.7"
+      },
+      "original_id": "86833",
+      "original_name": "Stellaris"
+    },
+    "3396b6dabe29cf1c034427cca6db2a59": {
+      "best_translation": {
+        "lang": "pt_br",
+        "mod_version": "1.0.0.0",
+        "trans_file_id": 648182,
+        "trans_mod_id": 155084,
+        "translation_version": "1.0"
+      },
+      "original_id": "51199",
+      "original_name": "Tonal Architect"
+    },
+    "34cc77121ae482bf672b3f2b06ea0e6b": {
+      "best_translation": {
+        "lang": "pt_br",
+        "mod_version": "1.3.0.0",
+        "trans_file_id": 412185,
+        "trans_mod_id": 97139,
+        "translation_version": "1.3"
+      },
+      "original_id": "65481",
+      "original_name": "Praedy's Staves AIO"
+    },
+    "3593f847bb4dac1b3038b0deaa49bf7f": {
+      "best_translation": {
+        "lang": "pt_br",
+        "mod_version": "1.2.6",
+        "trans_file_id": 623799,
+        "trans_mod_id": 89996,
+        "translation_version": "1.2.6"
+      },
+      "original_id": "88689",
+      "original_name": "Vulcano"
+    },
+    "36a4d76dde533afc559b571d99c67dfd": {
+      "best_translation": {
+        "lang": "pt_br",
+        "mod_version": "1.4.5.0",
+        "trans_file_id": 447824,
+        "trans_mod_id": 98948,
+        "translation_version": "1.4.5"
+      },
+      "original_id": "57138",
+      "original_name": "Thaumaturgy - An Enchanting Overhaul"
+    },
+    "376c768ca932ba0b05cd458163c69bcb": {
+      "best_translation": {
+        "lang": "pt_br",
+        "mod_version": "4.5.0.0",
+        "trans_file_id": 567295,
+        "trans_mod_id": 86373,
+        "translation_version": "4.5"
+      },
+      "original_id": "56095",
+      "original_name": "Lux Orbis"
+    },
+    "398b16b1dd6ec5b431b3723a4d6a976c": {
+      "best_translation": {
+        "lang": "pt_br",
+        "mod_version": "1.3.6",
+        "trans_file_id": 478076,
+        "trans_mod_id": 90026,
+        "translation_version": "1.3.6"
+      },
+      "original_id": "80852",
+      "original_name": "Lunaris"
+    },
+    "3a8abf834d1027e98272339ce28c4b6b": {
+      "best_translation": {
+        "lang": "pt_br",
+        "mod_version": "1.2.0.0",
+        "trans_file_id": 564780,
+        "trans_mod_id": 134544,
+        "translation_version": "1.2"
+      },
+      "original_id": "133720",
+      "original_name": "Senecio Armor"
+    },
+    "3aca46b1190e5a31f9e1fab9573388db": {
+      "best_translation": {
+        "lang": "pt_br",
+        "mod_version": "1.2.0",
+        "trans_file_id": 306502,
+        "trans_mod_id": 58112,
+        "translation_version": "1.2.0"
+      },
+      "original_id": "17561",
+      "original_name": "UIExtensions"
+    },
+    "4057d7b3a3fe68cb2b51db7846bed924": {
+      "best_translation": {
+        "lang": "pt_br",
+        "mod_version": "69.69.0.0",
+        "trans_file_id": 486376,
+        "trans_mod_id": 88252,
+        "translation_version": "69.69"
+      },
+      "original_id": "80975",
+      "original_name": "Skyrim on Skooma"
+    },
+    "408a30947432201058b429932cac9f60": {
+      "best_translation": {
+        "lang": "pt_br",
+        "mod_version": "2.0.0.0",
+        "trans_file_id": 100728,
+        "trans_mod_id": 16519,
+        "translation_version": "2.0"
+      },
+      "original_id": "15996",
+      "original_name": "Project AHO"
+    },
+    "40ac0d648655ce27dd45df0cc018c7ee": {
+      "best_translation": {
+        "lang": "pt_br",
+        "mod_version": "1.8.4.0",
+        "trans_file_id": 612848,
+        "trans_mod_id": 93404,
+        "translation_version": "1.8.4"
+      },
+      "original_id": "29834",
+      "original_name": "Practical Necromancy"
+    },
+    "41e6ad4a835acf1df7180e6669dd1c7a": {
+      "best_translation": {
+        "lang": "pt_br",
+        "mod_version": "1.0.0.0",
+        "trans_file_id": 366122,
+        "trans_mod_id": 86463,
+        "translation_version": "1.0"
+      },
+      "original_id": "69767",
+      "original_name": "Secret Child of Talos - CBBE 3BA"
+    },
+    "4bd0925e16219467c824c30901cfd955": {
+      "best_translation": {
+        "lang": "pt_br",
+        "mod_version": "1.0.0.0",
+        "trans_file_id": 450181,
+        "trans_mod_id": 106567,
+        "translation_version": "1"
+      },
+      "original_id": "106430",
+      "original_name": "Dangerous Gladiator - 3BA"
+    },
+    "51dbe105d587e799efeb7ad7f7b90122": {
+      "best_translation": {
+        "lang": "pt_br",
+        "mod_version": "1.7.4.0",
+        "trans_file_id": 431632,
+        "trans_mod_id": 101929,
+        "translation_version": "1.74"
+      },
+      "original_id": "9138",
+      "original_name": "Zim's Immersive Artifacts"
+    },
+    "590ce65574ba1f63cf604c1dbcbcbfd4": {
+      "best_translation": {
+        "lang": "pt_br",
+        "mod_version": "3.4.1.0",
+        "trans_file_id": 593916,
+        "trans_mod_id": 136732,
+        "translation_version": "3.4.1"
+      },
+      "original_id": "120075",
+      "original_name": "QuickLoot IE - A QuickLoot EE Fork"
+    },
+    "5b18aadd08d664fb0c64b5c422fcdcc4": {
+      "best_translation": {
+        "lang": "pt_br",
+        "mod_version": "6.0.0.0",
+        "trans_file_id": 631160,
+        "trans_mod_id": 151001,
+        "translation_version": "6.0.0"
+      },
+      "original_id": "3928",
+      "original_name": "Sacrosanct - Vampires of Skyrim"
+    },
+    "5ffdd15b2587ad9250d3a6b447ad1f4d": {
+      "best_translation": {
+        "lang": "pt_br",
+        "mod_version": "f2.03",
+        "trans_file_id": 364243,
+        "trans_mod_id": 66143,
+        "translation_version": "2.03"
+      },
+      "original_id": "66125",
+      "original_name": "NPCs Wear Amulets of Mara PLUS"
+    },
+    "661f06305186980a9d8b3795560892b7": {
+      "best_translation": {
+        "lang": "pt_br",
+        "mod_version": "1.2.2.0",
+        "trans_file_id": 524221,
+        "trans_mod_id": 125034,
+        "translation_version": "1.2.2"
+      },
+      "original_id": "52270",
+      "original_name": "OComfort - OStim Lovers Comfort"
+    },
+    "68448af598f6d04b255670789ce907a7": {
+      "best_translation": {
+        "lang": "pt_br",
+        "mod_version": "2.4.2.0",
+        "trans_file_id": 489734,
+        "trans_mod_id": 95774,
+        "translation_version": "2.4.2"
+      },
+      "original_id": "27839",
+      "original_name": "Mysticism - A Magic Overhaul"
+    },
+    "68fe4900399c72f16af583c030a90d4c": {
+      "best_translation": {
+        "lang": "pt_br",
+        "mod_version": "1.7.0.0",
+        "trans_file_id": 426197,
+        "trans_mod_id": 100714,
+        "translation_version": "1.7"
+      },
+      "original_id": "9666",
+      "original_name": "M'rissi's Tails of Troubles SE"
+    },
+    "6922d94efbc11a708dd77ebdb52de246": {
+      "best_translation": {
+        "lang": "pt_br",
+        "mod_version": "1.5.2.0",
+        "trans_file_id": 604120,
+        "trans_mod_id": 123779,
+        "translation_version": "1.5.2"
+      },
+      "original_id": "123521",
+      "original_name": "The Dragonborn's Bestiary"
+    },
+    "6bd7fc9c88b40eab160a0bcbe8708724": {
+      "best_translation": {
+        "lang": "pt_br",
+        "mod_version": "1.0.0.0",
+        "trans_file_id": 604091,
+        "trans_mod_id": 144225,
+        "translation_version": "1.0"
+      },
+      "original_id": "143045",
+      "original_name": "Iron Rose Armor"
+    },
+    "6c755efa1d3d540d274f36280ff17422": {
+      "best_translation": {
+        "lang": "pt_br",
+        "mod_version": "f1.05",
+        "trans_file_id": 452581,
+        "trans_mod_id": 53121,
+        "translation_version": "1.05"
+      },
+      "original_id": "53074",
+      "original_name": "Leaps of Faith - A Misc Quest"
+    },
+    "7007287c10b23196894e7fc9bb44d133": {
+      "best_translation": {
+        "lang": "pt_br",
+        "mod_version": "5.6.0.0",
+        "trans_file_id": 682838,
+        "trans_mod_id": 71915,
+        "translation_version": "5.6"
+      },
+      "original_id": "71182",
+      "original_name": "Twilight Princess Armor Mashup"
+    },
+    "74bae265c52570c92ecbd6bc6713db04": {
+      "best_translation": {
+        "lang": "pt_br",
+        "mod_version": "1.8.0.0",
+        "trans_file_id": 428467,
+        "trans_mod_id": 101216,
+        "translation_version": "1.8.0"
+      },
+      "original_id": "39170",
+      "original_name": "Triumvirate - Mage Archetypes"
+    },
+    "77611dac2ecc6d582f140652631116b6": {
+      "best_translation": {
+        "lang": "pt_br",
+        "mod_version": "1.0.0.0",
+        "trans_file_id": 681663,
+        "trans_mod_id": 163037,
+        "translation_version": "1.0"
+      },
+      "original_id": "40217",
+      "original_name": "Maid Outfits SE"
+    },
+    "7a202d5de80f5b310a0515800ebad25a": {
+      "best_translation": {
+        "lang": "pt_br",
+        "mod_version": "2.0.6",
+        "trans_file_id": 478066,
+        "trans_mod_id": 90100,
+        "translation_version": "2.0.6"
+      },
+      "original_id": "86292",
+      "original_name": "Necrom"
+    },
+    "7fd8e3b7cfc51f7851e2c675396aaf20": {
+      "best_translation": {
+        "lang": "pt_br",
+        "mod_version": "1.4.0.0",
+        "trans_file_id": 558184,
+        "trans_mod_id": 132949,
+        "translation_version": "1.4"
+      },
+      "original_id": "130790",
+      "original_name": "Knight-Errant Armor Set"
+    },
+    "816f002b02d206878b8b54427155acb9": {
+      "best_translation": {
+        "lang": "pt_br",
+        "mod_version": "1.7.1.0",
+        "trans_file_id": 518455,
+        "trans_mod_id": 90075,
+        "translation_version": "1.7.1"
+      },
+      "original_id": "90053",
+      "original_name": "OStim Lovers"
+    },
+    "83712aad35434d7d8f94e58620baa1ce": {
+      "best_translation": {
+        "lang": "pt_br",
+        "mod_version": "1.2.0.0",
+        "trans_file_id": 520525,
+        "trans_mod_id": 124147,
+        "translation_version": "1.2"
+      },
+      "original_id": "19178",
+      "original_name": "The Sinister Seven SSE"
+    },
+    "8639b263e49ab84e61826fb82bac286c": {
+      "best_translation": {
+        "lang": "pt_br",
+        "mod_version": "3.1.0.0",
+        "trans_file_id": 418098,
+        "trans_mod_id": 98564,
+        "translation_version": "3.1"
+      },
+      "original_id": "20680",
+      "original_name": "Sleep Tight SE"
+    },
+    "865cff3d99e10fcddf932db50104cc1c": {
+      "best_translation": {
+        "lang": "pt_br",
+        "mod_version": "2.2.0.0",
+        "trans_file_id": 508748,
+        "trans_mod_id": 86375,
+        "translation_version": "2.2"
+      },
+      "original_id": "63588",
+      "original_name": "Lux Via"
+    },
+    "876dba7e4a230d710b7e9f67ef00c1a6": {
+      "best_translation": {
+        "lang": "pt_br",
+        "mod_version": "2.0.1",
+        "trans_file_id": 478077,
+        "trans_mod_id": 90017,
+        "translation_version": "2.0.1"
+      },
+      "original_id": "74302",
+      "original_name": "Inquisition"
+    },
+    "8b692252bdb1d6b146f3228d2298489f": {
+      "best_translation": {
+        "lang": "pt_br",
+        "mod_version": "2.1.0.0",
+        "trans_file_id": 417776,
+        "trans_mod_id": 92956,
+        "translation_version": "2.1"
+      },
+      "original_id": "92898",
+      "original_name": "Lyssia (fully voiced follower and quest)"
+    },
+    "8da5ccbbb11bfc15ac3cef2de7596a23": {
+      "best_translation": {
+        "lang": "pt_br",
+        "mod_version": "2.4.0.0C",
+        "trans_file_id": 693390,
+        "trans_mod_id": 165901,
+        "translation_version": "2.4C"
+      },
+      "original_id": "1461",
+      "original_name": "INIGO"
+    },
+    "96bdb5035291c63f99cad974b9a074dc": {
+      "best_translation": {
+        "lang": "pt_br",
+        "mod_version": "1.0.0.0",
+        "trans_file_id": 252311,
+        "trans_mod_id": 60896,
+        "translation_version": "1"
+      },
+      "original_id": "60842",
+      "original_name": "Wind Ruler Armor SE"
+    },
+    "9d5f5ea03eb6a486ba4ebcf777f6735d": {
+      "best_translation": {
+        "lang": "pt_br",
+        "mod_version": "2.1.1.0",
+        "trans_file_id": 172082,
+        "trans_mod_id": 42856,
+        "translation_version": "2.1.1"
+      },
+      "original_id": "19075",
+      "original_name": "Kaidan 2"
+    },
+    "a2d7c24551f6add36b8bffd7237d6682": {
+      "best_translation": {
+        "lang": "pt_br",
+        "mod_version": "1.4.0.0",
+        "trans_file_id": 505319,
+        "trans_mod_id": 113153,
+        "translation_version": "1.4"
+      },
+      "original_id": "112260",
+      "original_name": "Dark Witch Armor"
+    },
+    "a474830620a6afa4ba9410d15cdf176e": {
+      "best_translation": {
+        "lang": "pt_br",
+        "mod_version": "1.7.0.0",
+        "trans_file_id": 361982,
+        "trans_mod_id": 85482,
+        "translation_version": "1.0.0"
+      },
+      "original_id": "41252",
+      "original_name": "SmoothCam"
+    },
+    "a516ad65806016aab84d6487f76245f7": {
+      "best_translation": {
+        "lang": "pt_br",
+        "mod_version": "1.2.2.0",
+        "trans_file_id": 499249,
+        "trans_mod_id": 118989,
+        "translation_version": "1.2.2"
+      },
+      "original_id": "100915",
+      "original_name": "Plus Combat"
+    },
+    "aa90e7ad1eb2c547f4e3fd52a4edc579": {
+      "best_translation": {
+        "lang": "pt_br",
+        "mod_version": "3.0.0.0",
+        "trans_file_id": 406214,
+        "trans_mod_id": 95629,
+        "translation_version": "3"
+      },
+      "original_id": "69701",
+      "original_name": "Twinblades of Skyrim"
+    },
+    "b239e06f017a426fa4a6ef65dbd19d54": {
+      "best_translation": {
+        "lang": "pt_br",
+        "mod_version": "1.0.0.0",
+        "trans_file_id": 595431,
+        "trans_mod_id": 142014,
+        "translation_version": "1.0"
+      },
+      "original_id": "141486",
+      "original_name": "Priestess of Time 3BA"
+    },
+    "b24b51f48b943218fb7e5e175adc370d": {
+      "best_translation": {
+        "lang": "pt_br",
+        "mod_version": "1",
+        "trans_file_id": 594112,
+        "trans_mod_id": 141676,
+        "translation_version": "1.0"
+      },
+      "original_id": "141507",
+      "original_name": "Apothecary - 3BA"
+    },
+    "b5b4cc7a3424c26a8841ce67b6c52399": {
+      "best_translation": {
+        "lang": "pt_br",
+        "mod_version": "0.4.19.16",
+        "trans_file_id": 433985,
+        "trans_mod_id": 102615,
+        "translation_version": "SE-AE"
+      },
+      "original_id": "19080",
+      "original_name": "RaceMenu"
+    },
+    "b5f11232e239aeca0620a311bb16640f": {
+      "best_translation": {
+        "lang": "pt_br",
+        "mod_version": "1.0.0.0",
+        "trans_file_id": 547383,
+        "trans_mod_id": 130461,
+        "translation_version": "1.0"
+      },
+      "original_id": "130245",
+      "original_name": "Pan's Nameless Witches"
+    },
+    "b6876624806ae13e41646cca3dc94b3a": {
+      "best_translation": {
+        "lang": "pt_br",
+        "mod_version": "5.5.0.0a",
+        "trans_file_id": 351747,
+        "trans_mod_id": 83211,
+        "translation_version": "5.5a"
+      },
+      "original_id": "22671",
+      "original_name": "Guards Armor Replacer SSE"
+    },
+    "c1af0900d738b7413e7bc4350ac263b5": {
+      "best_translation": {
+        "lang": "pt_br",
+        "mod_version": "1.0.3.0",
+        "trans_file_id": 601083,
+        "trans_mod_id": 143397,
+        "translation_version": "1.0.3"
+      },
+      "original_id": "98784",
+      "original_name": "Subclasses of Skyrim 2"
+    },
+    "c624e4f319737772aaa188f94daf532f": {
+      "best_translation": {
+        "lang": "pt_br",
+        "mod_version": "4.54.0.0",
+        "trans_file_id": 378345,
+        "trans_mod_id": 36959,
+        "translation_version": "4.54"
+      },
+      "original_id": "29194",
+      "original_name": "Interesting NPCs - 4.5 to 4.54 Update"
+    },
+    "c64f11a582270b99de2ea9fc3409d7a2": {
+      "best_translation": {
+        "lang": "pt_br",
+        "mod_version": "1.1.9.0",
+        "trans_file_id": 650204,
+        "trans_mod_id": 155513,
+        "translation_version": "1.1.9"
+      },
+      "original_id": "62775",
+      "original_name": "TrueHUD - HUD Additions"
+    },
+    "ca914ec80427574d4ba9d3793956d522": {
+      "best_translation": {
+        "lang": "pt_br",
+        "mod_version": "1.20.2.0",
+        "trans_file_id": 504916,
+        "trans_mod_id": 49574,
+        "translation_version": "1.20.2"
+      },
+      "original_id": "45565",
+      "original_name": "Wyrmstooth"
+    },
+    "cf1bdc35067c65ed9a9b3d6371ef3e9b": {
+      "best_translation": {
+        "lang": "pt_br",
+        "mod_version": "9.2.0.0",
+        "trans_file_id": 576351,
+        "trans_mod_id": 137380,
+        "translation_version": "v9.2"
+      },
+      "original_id": "26138",
+      "original_name": "Skyrim Landscape and Water Fixes"
+    },
+    "d63fc0e8770969e05016fc71dfa2ddae": {
+      "best_translation": {
+        "lang": "pt_br",
+        "mod_version": "1.0.3",
+        "trans_file_id": 478051,
+        "trans_mod_id": 103025,
+        "translation_version": "1.0.3"
+      },
+      "original_id": "101898",
+      "original_name": "Necrotic"
+    },
+    "d646c937c4e0ceadebf8dbfc82429702": {
+      "best_translation": {
+        "lang": "pt_br",
+        "mod_version": "?",
+        "trans_file_id": 622489,
+        "trans_mod_id": 98268,
+        "translation_version": "7.3.5"
+      },
+      "original_id": "98163",
+      "original_name": "OStim Standalone"
+    },
+    "dd3ed80528a321b01e5f0ff59de6704a": {
+      "best_translation": {
+        "lang": "pt_br",
+        "mod_version": "4.7.3.0",
+        "trans_file_id": 631577,
+        "trans_mod_id": 139862,
+        "translation_version": "4.7.3"
+      },
+      "original_id": "2227",
+      "original_name": "Khajiit Will Follow"
+    },
+    "e2e69383c765d997ae11282be290dd4c": {
+      "best_translation": {
+        "lang": "pt_br",
+        "mod_version": "f1.04",
+        "trans_file_id": 696118,
+        "trans_mod_id": 166655,
+        "translation_version": "1.04"
+      },
+      "original_id": "35977",
+      "original_name": "The Great Town of Shor's Stone SSE"
+    },
+    "ef027161bc5ae19c16e4bc78c87465bd": {
+      "best_translation": {
+        "lang": "pt_br",
+        "mod_version": "f1.03",
+        "trans_file_id": 604567,
+        "trans_mod_id": 73636,
+        "translation_version": "1.03"
+      },
+      "original_id": "70428",
+      "original_name": "NPCs React To Necromancy (And More)"
+    },
+    "f4d79d27b12a803e7d009c08b482504f": {
+      "best_translation": {
+        "lang": "pt_br",
+        "mod_version": "1.1.0.0",
+        "trans_file_id": 566861,
+        "trans_mod_id": 135049,
+        "translation_version": "1.1b"
+      },
+      "original_id": "133579",
+      "original_name": "Olenveld"
+    },
+    "f50cf4529366e86e957090df220ca54f": {
+      "best_translation": {
+        "lang": "pt_br",
+        "mod_version": "0.18.4.0",
+        "trans_file_id": 446702,
+        "trans_mod_id": 64957,
+        "translation_version": "0.18.4"
+      },
+      "original_id": "21061",
+      "original_name": "Penitus Oculatus"
+    },
+    "fff2f0785d158df735bc4a66e9fc7334": {
+      "best_translation": {
+        "lang": "pt_br",
+        "mod_version": "1.17.6.0",
+        "trans_file_id": 547221,
+        "trans_mod_id": 108024,
+        "translation_version": "1.17.6"
+      },
+      "original_id": "106519",
+      "original_name": "OStim Community Resource"
     }
   }
 }
