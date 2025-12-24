@@ -1,6 +1,6 @@
 # 🌍 Mod Translation Manager: Community Master List
 
-![License](https://img.shields.io/github/license/Zoonkky/Mod-Translation-Manager-Master-List?style=flat-square)
+![License](https://img.shields.io/github/license/thiagoalcr/Mod-Translation-Manager-Master-List?style=flat-square)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)
 ![Data Integrity](https://img.shields.io/badge/Data-Validated-blue?style=flat-square)
 
