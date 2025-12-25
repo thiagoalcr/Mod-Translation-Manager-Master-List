@@ -13,9 +13,9 @@ All new data must be submitted to the `submissions/` folder. Our automated scrip
 
 ## 📝 How to Contribute (Step-by-Step)
 
-### Phase 1: In the App (NexLocalizer)
+### Phase 1: In the App (Mod Translation Manager)
 
-1.  Open the **Mod Translation Manager (NexLocalizer)**.
+1.  Open the **Mod Translation Manager (MTM)**.
 2.  Make sure your mod list is organized and linked correctly.
     * *Tip: If you manually corrected a version or link, the app will prioritize your fix.*
 3.  Click the **"Export List"** button in the main interface.
