@@ -1,3 +1,125 @@
 {
-  "entries": {}
+  "entries": {
+    "09001c568ad3b36c66db2d2539aeb807": {
+      "best_translation": {
+        "lang": "de",
+        "mod_version": "1.0.1.0",
+        "trans_file_id": 539332,
+        "trans_mod_id": 128541,
+        "translation_version": "1.0.1"
+      },
+      "original_id": "128144",
+      "original_name": "Follower Dialogue Expansion - Camilla Valerius"
+    },
+    "1b69785f3bf133c98dad58b1e78f3bf9": {
+      "best_translation": {
+        "lang": "de",
+        "mod_version": "2.8.6.0b",
+        "trans_file_id": 469546,
+        "trans_mod_id": 61279,
+        "translation_version": "2.8.6"
+      },
+      "original_id": "55653",
+      "original_name": "Nether's Follower Framework"
+    },
+    "57bee37a288771c79e9abc06a625a470": {
+      "best_translation": {
+        "lang": "de",
+        "mod_version": "1.13.0.0",
+        "trans_file_id": 593889,
+        "trans_mod_id": 87238,
+        "translation_version": "?"
+      },
+      "original_id": "62893",
+      "original_name": "Xelzaz - Custom Fully Voiced Argonian Telvanni Follower"
+    },
+    "81ee8e04b2108c4e0cb9ea98f43db14c": {
+      "best_translation": {
+        "lang": "de",
+        "mod_version": "2.0.1.1",
+        "trans_file_id": 621334,
+        "trans_mod_id": 145467,
+        "translation_version": "2.0.1.1"
+      },
+      "original_id": "116719",
+      "original_name": "Follower Dialogue Expansion - Erik the Slayer"
+    },
+    "83983f816d733ebd6bb890ab070eff0d": {
+      "best_translation": {
+        "lang": "de",
+        "mod_version": "2.0.0.0",
+        "trans_file_id": 674282,
+        "trans_mod_id": 161194,
+        "translation_version": "2.0"
+      },
+      "original_id": "124787",
+      "original_name": "Follower Dialogue Expansion - Ysolda"
+    },
+    "99086e6b560b4393290b3c5e05fdb73a": {
+      "best_translation": {
+        "lang": "de",
+        "mod_version": "2.0.0.0",
+        "trans_file_id": 575617,
+        "trans_mod_id": 137175,
+        "translation_version": "2.0"
+      },
+      "original_id": "122487",
+      "original_name": "Follower Dialogue Expansion - Uthgerd the Unbroken"
+    },
+    "b353781ffbaf69467d267ba4b0e7272e": {
+      "best_translation": {
+        "lang": "de",
+        "mod_version": "1.0.0.0",
+        "trans_file_id": 677115,
+        "trans_mod_id": 161886,
+        "translation_version": "1"
+      },
+      "original_id": "157012",
+      "original_name": "Follower Dialogue Expansion - Eola"
+    },
+    "b865b245ba74c97af97f0624ccf06e75": {
+      "best_translation": {
+        "lang": "de",
+        "mod_version": "3.0.0.0",
+        "trans_file_id": 670106,
+        "trans_mod_id": 160181,
+        "translation_version": "3.0"
+      },
+      "original_id": "113359",
+      "original_name": "Follower Dialogue Expansion - Brelyna Maryon"
+    },
+    "c68d6874a124d94467738b912b8bd887": {
+      "best_translation": {
+        "lang": "de",
+        "mod_version": "6.0.1.0",
+        "trans_file_id": 674681,
+        "trans_mod_id": 157247,
+        "translation_version": "6.0.1"
+      },
+      "original_id": "120255",
+      "original_name": "Follower Dialogue Expansion - Jenassa"
+    },
+    "cbdb8282eebcb47f6a986d4046b268ca": {
+      "best_translation": {
+        "lang": "de",
+        "mod_version": "1.1.0.0",
+        "trans_file_id": 670102,
+        "trans_mod_id": 160180,
+        "translation_version": "1.1"
+      },
+      "original_id": "133571",
+      "original_name": "Follower Dialogue Expansion - Borgakh the Steel Heart"
+    },
+    "ce30997e4ad912209dd0abc32f7165f7": {
+      "best_translation": {
+        "lang": "de",
+        "mod_version": "4.2.2.0",
+        "trans_file_id": 617031,
+        "trans_mod_id": 147498,
+        "translation_version": "4.2.2"
+      },
+      "original_id": "38473",
+      "original_name": "Improved Follower Dialogue - Lydia"
+    }
+  }
 }
