@@ -1,3 +1,147 @@
 {
-  "entries": {}
+  "entries": {
+    "09001c568ad3b36c66db2d2539aeb807": {
+      "best_translation": {
+        "lang": "zh_tw",
+        "mod_version": "1.0.1.0",
+        "trans_file_id": 551070,
+        "trans_mod_id": 131317,
+        "translation_version": "1.0.1"
+      },
+      "original_id": "128144",
+      "original_name": "Follower Dialogue Expansion - Camilla Valerius"
+    },
+    "1b69785f3bf133c98dad58b1e78f3bf9": {
+      "best_translation": {
+        "lang": "zh_tw",
+        "mod_version": "2.8.6.0b",
+        "trans_file_id": 478173,
+        "trans_mod_id": 67680,
+        "translation_version": "2.8.6"
+      },
+      "original_id": "55653",
+      "original_name": "Nether's Follower Framework"
+    },
+    "2cff64fbdf784901980a3197140703fa": {
+      "best_translation": {
+        "lang": "zh_tw",
+        "mod_version": "1.0.1.0",
+        "trans_file_id": 646727,
+        "trans_mod_id": 154758,
+        "translation_version": "1.0.1"
+      },
+      "original_id": "147428",
+      "original_name": "Follower Dialogue Expansion - Sapphire (FDE)"
+    },
+    "5e5ba69af3a990fa0fc2f33dae7156f7": {
+      "best_translation": {
+        "lang": "zh_tw",
+        "mod_version": "2.0.0.0",
+        "trans_file_id": 621530,
+        "trans_mod_id": 148708,
+        "translation_version": "2.0"
+      },
+      "original_id": "137845",
+      "original_name": "Follower Dialogue Expansion - Illia"
+    },
+    "61c2d10fe03ad8461d79f7a52e15b538": {
+      "best_translation": {
+        "lang": "zh_tw",
+        "mod_version": "1.6.3.0",
+        "trans_file_id": 253662,
+        "trans_mod_id": 20883,
+        "translation_version": "1.6.3"
+      },
+      "original_id": "20035",
+      "original_name": "Lucien - Immersive Fully Voiced Male Follower"
+    },
+    "81ee8e04b2108c4e0cb9ea98f43db14c": {
+      "best_translation": {
+        "lang": "zh_tw",
+        "mod_version": "2.0.1.1",
+        "trans_file_id": 621883,
+        "trans_mod_id": 148803,
+        "translation_version": "2.0.1.1"
+      },
+      "original_id": "116719",
+      "original_name": "Follower Dialogue Expansion - Erik the Slayer"
+    },
+    "99086e6b560b4393290b3c5e05fdb73a": {
+      "best_translation": {
+        "lang": "zh_tw",
+        "mod_version": "2.0.0.0",
+        "trans_file_id": 562937,
+        "trans_mod_id": 131379,
+        "translation_version": "2.0"
+      },
+      "original_id": "122487",
+      "original_name": "Follower Dialogue Expansion - Uthgerd the Unbroken"
+    },
+    "b353781ffbaf69467d267ba4b0e7272e": {
+      "best_translation": {
+        "lang": "zh_tw",
+        "mod_version": "1.0.0.0",
+        "trans_file_id": 663687,
+        "trans_mod_id": 158736,
+        "translation_version": "1.0"
+      },
+      "original_id": "157012",
+      "original_name": "Follower Dialogue Expansion - Eola"
+    },
+    "b865b245ba74c97af97f0624ccf06e75": {
+      "best_translation": {
+        "lang": "zh_tw",
+        "mod_version": "3.0.0.0",
+        "trans_file_id": 647417,
+        "trans_mod_id": 130900,
+        "translation_version": "3.0"
+      },
+      "original_id": "113359",
+      "original_name": "Follower Dialogue Expansion - Brelyna Maryon"
+    },
+    "c11ec8e8d304c4b0b9b96aa9504ba08b": {
+      "best_translation": {
+        "lang": "zh_tw",
+        "mod_version": "1.1.3.0",
+        "trans_file_id": 549209,
+        "trans_mod_id": 130897,
+        "translation_version": "1.1.3"
+      },
+      "original_id": "117930",
+      "original_name": "Follower Dialogue Expansion - Jordis the Sword-Maiden"
+    },
+    "c480f94d3ca00666ab8f085b81bad253": {
+      "best_translation": {
+        "lang": "zh_tw",
+        "mod_version": "1.0.0.0",
+        "trans_file_id": 663685,
+        "trans_mod_id": 158735,
+        "translation_version": "1.0"
+      },
+      "original_id": "155510",
+      "original_name": "Follower Dialogue Expansion - Faralda"
+    },
+    "cbdb8282eebcb47f6a986d4046b268ca": {
+      "best_translation": {
+        "lang": "zh_tw",
+        "mod_version": "1.1.0.0",
+        "trans_file_id": 619438,
+        "trans_mod_id": 134183,
+        "translation_version": "1.1"
+      },
+      "original_id": "133571",
+      "original_name": "Follower Dialogue Expansion - Borgakh the Steel Heart"
+    },
+    "f5bbf78fc6710fe362be7fcd1e899c28": {
+      "best_translation": {
+        "lang": "zh_tw",
+        "mod_version": "2.0.0.0",
+        "trans_file_id": 647422,
+        "trans_mod_id": 148709,
+        "translation_version": "2.0"
+      },
+      "original_id": "141907",
+      "original_name": "Follower Dialogue Expansion - Aranea Ienith"
+    }
+  }
 }
