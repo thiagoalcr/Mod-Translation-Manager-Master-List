@@ -28,7 +28,7 @@ jobs:
           has_error = False
 
           if not files:
-              print("⚠️ Nenhum arquivo JSON encontrado para validar.")
+              print("⚠️ No JSON file found to validate.")
               sys.exit(0)
 
           for file in files:
