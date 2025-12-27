@@ -1,106 +1,9 @@
 {
   "entries": {
-    "06949a044db2f1a8b966ce5bad96f764": {
-      "best_translation": {
-        "lang": "pt_br",
-        "mod_version": "1.8.7.0",
-        "trans_file_id": 628259,
-        "trans_mod_id": 122060,
-        "translation_version": "1.8.7"
-      },
-      "original_id": "21654",
-      "original_name": "AI Overhaul SSE"
-    },
-    "0c537a9cc667e229a327a5aa7324b24b": {
-      "best_translation": {
-        "lang": "pt_br",
-        "mod_version": "1.1.7",
-        "trans_file_id": 623804,
-        "trans_mod_id": 91799,
-        "translation_version": "1.1.7"
-      },
-      "original_id": "91602",
-      "original_name": "Arcane"
-    },
-    "14ac78d5113339ac1438c657ece2b4f6": {
-      "best_translation": {
-        "lang": "pt_br",
-        "mod_version": "1.54.0.0",
-        "trans_file_id": 576285,
-        "trans_mod_id": 137352,
-        "translation_version": "1.54"
-      },
-      "original_id": "115106",
-      "original_name": "Ancient Blood Magic II"
-    },
-    "9285b6aacad2b34b4495b7fbae328912": {
-      "best_translation": {
-        "lang": "pt_br",
-        "mod_version": "3.1.6",
-        "trans_file_id": 623797,
-        "trans_mod_id": 90076,
-        "translation_version": "3.1.6"
-      },
-      "original_id": "83329",
-      "original_name": "Abyss"
-    },
-    "b8a5df849fede5d35e11c778995f82ee": {
-      "best_translation": {
-        "lang": "pt_br",
-        "mod_version": "1.0.5.0",
-        "trans_file_id": 662880,
-        "trans_mod_id": 156289,
-        "translation_version": "1.0.5"
-      },
-      "original_id": "134405",
-      "original_name": "Dac0da"
-    },
-    "c119b5813c3a887161022dce3d7fc72a": {
-      "best_translation": {
-        "lang": "pt_br",
-        "mod_version": "1",
-        "trans_file_id": 598922,
-        "trans_mod_id": 142836,
-        "translation_version": "1.0"
-      },
-      "original_id": "140245",
-      "original_name": "[ELLE] Sena"
-    },
-    "193b3d86f131ce60e5f66cea86f3e63a": {
-      "best_translation": {
-        "lang": "pt_br",
-        "mod_version": "2.5.1",
-        "trans_file_id": 454183,
-        "trans_mod_id": 107549,
-        "translation_version": "2.5.1"
-      },
-      "original_id": "2879",
-      "original_name": "Dragon Souls to Perk Points-2879-2-5-1-1631506085"
-    },
-    "a067e1de85b4aedf7719cd8219ffd5a5": {
-      "best_translation": {
-        "lang": "pt_br",
-        "mod_version": "1.0",
-        "trans_file_id": 288407,
-        "trans_mod_id": 69030,
-        "translation_version": "1.0"
-      },
-      "original_id": "35785",
-      "original_name": "Expressive Facegen Morphs SE"
-    },
-    "d4a3d32d78dad5e30f6efd40300754d2": {
-      "best_translation": {
-        "lang": "pt_br",
-        "mod_version": "3.06",
-        "trans_file_id": 101876,
-        "trans_mod_id": 27998,
-        "translation_version": "3.06"
-      },
-      "original_id": "2424",
-      "original_name": "Enhanced Lights and FX-2424-3-06"
-    },
     "0062a45330dd3f5004e8aee64755107f": {
       "best_translation": {
+        "author_name": "Fruhand",
+        "author_url": "https://www.nexusmods.com/users/3727430",
         "lang": "pt_br",
         "mod_version": "2.3.0.0",
         "trans_file_id": 300867,
@@ -110,19 +13,10 @@
       "original_id": "35978",
       "original_name": "Animated Armoury - DAR Version - New Weapons with animations"
     },
-    "fbc272916fbe9ddf22bfdee039a81053": {
-      "best_translation": {
-        "lang": "pt_br",
-        "mod_version": "1.0.0.0",
-        "trans_file_id": 390074,
-        "trans_mod_id": 91745,
-        "translation_version": "1.0"
-      },
-      "original_id": "91741",
-      "original_name": "Adventurer HDT-SMP Armor"
-    },
     "029ed514b3cf76cf5a2c6f7d7c4e2b6d": {
       "best_translation": {
+        "author_name": "Granhadd",
+        "author_url": "https://www.nexusmods.com/users/34479385",
         "lang": "pt_br",
         "mod_version": "1.1.0.0",
         "trans_file_id": 342034,
@@ -134,6 +28,8 @@
     },
     "02c30bef56b25bd8b582b5df504fb080": {
       "best_translation": {
+        "author_name": "Granhadd",
+        "author_url": "https://www.nexusmods.com/users/34479385",
         "lang": "pt_br",
         "mod_version": "1.1.8",
         "trans_file_id": 623802,
@@ -145,6 +41,8 @@
     },
     "034f0e802dfd2f61e0df45c7f34b5a24": {
       "best_translation": {
+        "author_name": "Zoonkky",
+        "author_url": "https://www.nexusmods.com/users/226766544",
         "lang": "pt_br",
         "mod_version": "1.2.0.0",
         "trans_file_id": 649074,
@@ -154,877 +52,10 @@
       "original_id": "108242",
       "original_name": "Return Aegisbane"
     },
-    "0697100805a9c50d1b9e1fc5f2c77c51": {
-      "best_translation": {
-        "lang": "pt_br",
-        "mod_version": "1.1.6",
-        "trans_file_id": 623801,
-        "trans_mod_id": 90415,
-        "translation_version": "1.1.6"
-      },
-      "original_id": "90405",
-      "original_name": "Arclight"
-    },
-    "0e68553fa0212c549b733ae1d80cdf62": {
-      "best_translation": {
-        "lang": "pt_br",
-        "mod_version": "2.1.0.0",
-        "trans_file_id": 660164,
-        "trans_mod_id": 157968,
-        "translation_version": "2.1"
-      },
-      "original_id": "40367",
-      "original_name": "Just Cast It - Magic Rebound"
-    },
-    "13800b3586295f15192f4a3e19dbf62c": {
-      "best_translation": {
-        "lang": "pt_br",
-        "mod_version": "2.6.1.0",
-        "trans_file_id": 651880,
-        "trans_mod_id": 156004,
-        "translation_version": "2.6.1"
-      },
-      "original_id": "135288",
-      "original_name": "Bathing in Skyrim - Renewed"
-    },
-    "2078e98334898332394f9054e5baa459": {
-      "best_translation": {
-        "lang": "pt_br",
-        "mod_version": "1.1.2.0",
-        "trans_file_id": 609211,
-        "trans_mod_id": 145635,
-        "translation_version": "1.1.02"
-      },
-      "original_id": "9252",
-      "original_name": "Immersive College NPCs"
-    },
-    "20d19f777a00edbbbc80c3550d9a1169": {
-      "best_translation": {
-        "lang": "pt_br",
-        "mod_version": "1.3.0.0",
-        "trans_file_id": 600381,
-        "trans_mod_id": 116048,
-        "translation_version": "1.3"
-      },
-      "original_id": "116025",
-      "original_name": "Follower Dialogue Expansion - Mjoll the Lioness"
-    },
-    "24e4f620d820292ceeb03882101a3b66": {
-      "best_translation": {
-        "lang": "pt_br",
-        "mod_version": "1.7.0.0",
-        "trans_file_id": 574615,
-        "trans_mod_id": 134132,
-        "translation_version": "1.7"
-      },
-      "original_id": "134088",
-      "original_name": "Common Clothing Expansion"
-    },
-    "2a6c807a7f52aafc09e5967612133053": {
-      "best_translation": {
-        "lang": "pt_br",
-        "mod_version": "1.1.0.0",
-        "trans_file_id": 521454,
-        "trans_mod_id": 98145,
-        "translation_version": "1.1"
-      },
-      "original_id": "90570",
-      "original_name": "Amorous Adventures for Ostim - Script Fix"
-    },
-    "2b025f3f9a9f2388b80a9d4dd595120b": {
-      "best_translation": {
-        "lang": "pt_br",
-        "mod_version": "1.0.4.0",
-        "trans_file_id": 425979,
-        "trans_mod_id": 100672,
-        "translation_version": "1.0.4"
-      },
-      "original_id": "92000",
-      "original_name": "Ascension 2"
-    },
-    "2b144ae43eaa21d907641774b36701bd": {
-      "best_translation": {
-        "lang": "pt_br",
-        "mod_version": "1.4.0.0",
-        "trans_file_id": 566590,
-        "trans_mod_id": 134985,
-        "translation_version": "1.4"
-      },
-      "original_id": "28952",
-      "original_name": "Cities of the North - Dawnstar"
-    },
-    "2cff64fbdf784901980a3197140703fa": {
-      "best_translation": {
-        "lang": "pt_br",
-        "mod_version": "1.0.1.0",
-        "trans_file_id": 628257,
-        "trans_mod_id": 147504,
-        "translation_version": "1.0.1"
-      },
-      "original_id": "147428",
-      "original_name": "Follower Dialogue Expansion - Sapphire (FDE)"
-    },
-    "2d77bd38dec326310635b2b49f0ab62f": {
-      "best_translation": {
-        "lang": "pt_br",
-        "mod_version": "f1.06",
-        "trans_file_id": 523171,
-        "trans_mod_id": 65820,
-        "translation_version": "1.06"
-      },
-      "original_id": "65708",
-      "original_name": "Caught Red Handed - Quest Expansion"
-    },
-    "2e840dfca59f8e89e16ef2055e90f8b6": {
-      "best_translation": {
-        "lang": "pt_br",
-        "mod_version": "2.6.0.0",
-        "trans_file_id": 412578,
-        "trans_mod_id": 97238,
-        "translation_version": "2.6"
-      },
-      "original_id": "13972",
-      "original_name": "Artifacts - The Ice Blade of the Monarch [SSE]"
-    },
-    "3066ae0fd57779f3c10d921003709dcc": {
-      "best_translation": {
-        "lang": "pt_br",
-        "mod_version": "1.1.0.0",
-        "trans_file_id": 650886,
-        "trans_mod_id": 130442,
-        "translation_version": "1.1"
-      },
-      "original_id": "130418",
-      "original_name": "Follower Dialogue Expansion - Faendal"
-    },
-    "337d8182dd34934d3138bade381658ac": {
-      "best_translation": {
-        "lang": "pt_br",
-        "mod_version": "1.3.1.0",
-        "trans_file_id": 566595,
-        "trans_mod_id": 134989,
-        "translation_version": "1.3.1"
-      },
-      "original_id": "56731",
-      "original_name": "Cities of the North - Falkreath - Hotfix"
-    },
-    "3491af3813778eb0811682840def61a1": {
-      "best_translation": {
-        "lang": "pt_br",
-        "mod_version": "1.12.0.0",
-        "trans_file_id": 387990,
-        "trans_mod_id": 77060,
-        "translation_version": "1.12"
-      },
-      "original_id": "51711",
-      "original_name": "Paarthurnax - Quest Expansion"
-    },
-    "364e5fb4e0ce69966393219a49a82bae": {
-      "best_translation": {
-        "lang": "pt_br",
-        "mod_version": "1.2.0.0",
-        "trans_file_id": 655299,
-        "trans_mod_id": 156802,
-        "translation_version": "1.2.0"
-      },
-      "original_id": "88043",
-      "original_name": "Freyr - Integrated Standing Stones of Skyrim"
-    },
-    "391cf00861d3b2d51a0d8662395752f9": {
-      "best_translation": {
-        "lang": "pt_br",
-        "mod_version": "1.8.0.0",
-        "trans_file_id": 608106,
-        "trans_mod_id": 145384,
-        "translation_version": "1.8"
-      },
-      "original_id": "1179",
-      "original_name": "The Forgotten City"
-    },
-    "3a2142f95d1cd133a1dbeb0e8d06355a": {
-      "best_translation": {
-        "lang": "pt_br",
-        "mod_version": "3.0.1.0",
-        "trans_file_id": 655260,
-        "trans_mod_id": 156791,
-        "translation_version": "3.0.1"
-      },
-      "original_id": "87219",
-      "original_name": "Mannaz - Integrated Races of Skyrim"
-    },
-    "3bf639d37193abbcb4947aa850ca808f": {
-      "best_translation": {
-        "lang": "pt_br",
-        "mod_version": "1.1.0.0",
-        "trans_file_id": 443868,
-        "trans_mod_id": 104452,
-        "translation_version": "1.1"
-      },
-      "original_id": "104241",
-      "original_name": "Abyss 3BA"
-    },
-    "3e2f11531c4da6ae4086e2528198717e": {
-      "best_translation": {
-        "lang": "pt_br",
-        "mod_version": "f1.05",
-        "trans_file_id": 559255,
-        "trans_mod_id": 58087,
-        "translation_version": "1.05"
-      },
-      "original_id": "57683",
-      "original_name": "The Only Cure - Quest Expansion"
-    },
-    "444aefbef866dda2f37f0687acc728dd": {
-      "best_translation": {
-        "lang": "pt_br",
-        "mod_version": "1.0.0.0",
-        "trans_file_id": 625837,
-        "trans_mod_id": 149748,
-        "translation_version": "1"
-      },
-      "original_id": "149724",
-      "original_name": "Immersive Dialogue Expansion - Whiterun"
-    },
-    "4a117178a7757385fd394a7103b1b993": {
-      "best_translation": {
-        "lang": "pt_br",
-        "mod_version": "1.2.0.0",
-        "trans_file_id": 566903,
-        "trans_mod_id": 135063,
-        "translation_version": "1.2"
-      },
-      "original_id": "34168",
-      "original_name": "Cities of the North - Morthal"
-    },
-    "5034996f62d51f464157f06c53c49cdd": {
-      "best_translation": {
-        "lang": "pt_br",
-        "mod_version": "f1.01",
-        "trans_file_id": 578952,
-        "trans_mod_id": 121617,
-        "translation_version": "1.01"
-      },
-      "original_id": "120995",
-      "original_name": "Falmer Servant Lines Expansion"
-    },
-    "522d7786845a456198c744fe2e908ede": {
-      "best_translation": {
-        "lang": "pt_br",
-        "mod_version": "1.10.0.0",
-        "trans_file_id": 661189,
-        "trans_mod_id": 158198,
-        "translation_version": "1.10"
-      },
-      "original_id": "356",
-      "original_name": "Black Mage Armor SE"
-    },
-    "56cb71f29c9d708bd87963d3c81e1f04": {
-      "best_translation": {
-        "lang": "pt_br",
-        "mod_version": "2.0.1.0",
-        "trans_file_id": 584756,
-        "trans_mod_id": 139441,
-        "translation_version": "2.0.1"
-      },
-      "original_id": "128173",
-      "original_name": "Mage Clothing Expansion"
-    },
-    "5e5ba69af3a990fa0fc2f33dae7156f7": {
-      "best_translation": {
-        "lang": "pt_br",
-        "mod_version": "2.0.0.0",
-        "trans_file_id": 578466,
-        "trans_mod_id": 137848,
-        "translation_version": "2.0"
-      },
-      "original_id": "137845",
-      "original_name": "Follower Dialogue Expansion - Illia"
-    },
-    "61c2d10fe03ad8461d79f7a52e15b538": {
-      "best_translation": {
-        "lang": "pt_br",
-        "mod_version": "1.6.3.0",
-        "trans_file_id": 697564,
-        "trans_mod_id": 166994,
-        "translation_version": "1.6.3"
-      },
-      "original_id": "20035",
-      "original_name": "Lucien - Immersive Fully Voiced Male Follower"
-    },
-    "653a5f3cf0fb05b77a27c291b12172d1": {
-      "best_translation": {
-        "lang": "pt_br",
-        "mod_version": "1.0.0.0",
-        "trans_file_id": 660140,
-        "trans_mod_id": 157964,
-        "translation_version": "1.0"
-      },
-      "original_id": "59951",
-      "original_name": "Weapon Armor Attribute Tweaks"
-    },
-    "6648e3d594b95e0a83ee8ffece3a6e6e": {
-      "best_translation": {
-        "lang": "pt_br",
-        "mod_version": "1.0.0.0",
-        "trans_file_id": 237572,
-        "trans_mod_id": 57604,
-        "translation_version": "1"
-      },
-      "original_id": "25094",
-      "original_name": "Dawnguard Arsenal SSE"
-    },
-    "67637db2918a5de78afce8ac1df3de13": {
-      "best_translation": {
-        "lang": "pt_br",
-        "mod_version": "3.0.0.0b",
-        "trans_file_id": 617012,
-        "trans_mod_id": 147601,
-        "translation_version": "3.0b"
-      },
-      "original_id": "718",
-      "original_name": "Immersive Patrols (Heavy)"
-    },
-    "69955fbd8d6896d9fab2753ee5b38685": {
-      "best_translation": {
-        "lang": "pt_br",
-        "mod_version": "1.4.0.0",
-        "trans_file_id": 416068,
-        "trans_mod_id": 97194,
-        "translation_version": "1.4"
-      },
-      "original_id": "97185",
-      "original_name": "Vampire Clothing Expansion"
-    },
-    "6aac60e2540bfc7640e12a1d1f0d2469": {
-      "best_translation": {
-        "lang": "pt_br",
-        "mod_version": "f1.01",
-        "trans_file_id": 536420,
-        "trans_mod_id": 123279,
-        "translation_version": "1.01"
-      },
-      "original_id": "120802",
-      "original_name": "Ascend - Hidden Peaks of Skyrim"
-    },
-    "6d2de753b9c7bb890b161c0cd0fdb5ff": {
-      "best_translation": {
-        "lang": "pt_br",
-        "mod_version": "1.13.0.0",
-        "trans_file_id": 462842,
-        "trans_mod_id": 87575,
-        "translation_version": "1.13"
-      },
-      "original_id": "67930",
-      "original_name": "Immersive Rejections"
-    },
-    "7160f93571379fdd23354e840f267e77": {
-      "best_translation": {
-        "lang": "pt_br",
-        "mod_version": "f1.09",
-        "trans_file_id": 459657,
-        "trans_mod_id": 64488,
-        "translation_version": "1.09"
-      },
-      "original_id": "63733",
-      "original_name": "Bandit Lines Expansion"
-    },
-    "76dd97b5f2a6a6bd1622c99835d4347c": {
-      "best_translation": {
-        "lang": "pt_br",
-        "mod_version": "1.6.0",
-        "trans_file_id": 160366,
-        "trans_mod_id": 40391,
-        "translation_version": "1.6.0SE"
-      },
-      "original_id": "595",
-      "original_name": "Immersive Wenches"
-    },
-    "7bb7555d65ebcd03c22ca4678f8e3267": {
-      "best_translation": {
-        "lang": "pt_br",
-        "mod_version": "10.2.1.0",
-        "trans_file_id": 661609,
-        "trans_mod_id": 158281,
-        "translation_version": "10.2.1"
-      },
-      "original_id": "1090",
-      "original_name": "Apocalypse - Magic of Skyrim"
-    },
-    "81ee8e04b2108c4e0cb9ea98f43db14c": {
-      "best_translation": {
-        "lang": "pt_br",
-        "mod_version": "2.0.1.1",
-        "trans_file_id": 621368,
-        "trans_mod_id": 116748,
-        "translation_version": "2.0.1.1"
-      },
-      "original_id": "116719",
-      "original_name": "Follower Dialogue Expansion - Erik the Slayer"
-    },
-    "83983f816d733ebd6bb890ab070eff0d": {
-      "best_translation": {
-        "lang": "pt_br",
-        "mod_version": "2.0.0.0",
-        "trans_file_id": 538509,
-        "trans_mod_id": 124974,
-        "translation_version": "2.0"
-      },
-      "original_id": "124787",
-      "original_name": "Follower Dialogue Expansion - Ysolda"
-    },
-    "89206f5afdafd236e4400f6dab4e95a6": {
-      "best_translation": {
-        "lang": "pt_br",
-        "mod_version": "1.15.0.0",
-        "trans_file_id": 441474,
-        "trans_mod_id": 70804,
-        "translation_version": "1.15"
-      },
-      "original_id": "66666",
-      "original_name": "College of Winterhold - Quest Expansion"
-    },
-    "8ef720e56ff2dda7918eb7ac9a87055e": {
-      "best_translation": {
-        "lang": "pt_br",
-        "mod_version": "6.10.0.0",
-        "trans_file_id": 660310,
-        "trans_mod_id": 46598,
-        "translation_version": "6.10.0"
-      },
-      "original_id": "11802",
-      "original_name": "Legacy of the Dragonborn SSE"
-    },
-    "8f054b659cc12af7baed1048188fdab4": {
-      "best_translation": {
-        "lang": "pt_br",
-        "mod_version": "3.0.0.0",
-        "trans_file_id": 682115,
-        "trans_mod_id": 163169,
-        "translation_version": "3.0"
-      },
-      "original_id": "156225",
-      "original_name": "360 Ward"
-    },
-    "90cb8e89bb8a42b09e37226b1a0b08f3": {
-      "best_translation": {
-        "lang": "pt_br",
-        "mod_version": "2.0.0.0",
-        "trans_file_id": 644279,
-        "trans_mod_id": 143971,
-        "translation_version": "2.0"
-      },
-      "original_id": "143288",
-      "original_name": "Follower Dialogue Expansion - Rayya"
-    },
-    "92cc5aa1a33bab4b964d71db6359921b": {
-      "best_translation": {
-        "lang": "pt_br",
-        "mod_version": "3.0.4.0",
-        "trans_file_id": 634855,
-        "trans_mod_id": 151917,
-        "translation_version": "3.0.4"
-      },
-      "original_id": "24104",
-      "original_name": "Atlas Map Markers - Updated with MCM"
-    },
-    "99086e6b560b4393290b3c5e05fdb73a": {
-      "best_translation": {
-        "lang": "pt_br",
-        "mod_version": "2.0.0.0",
-        "trans_file_id": 560560,
-        "trans_mod_id": 122517,
-        "translation_version": "2.0"
-      },
-      "original_id": "122487",
-      "original_name": "Follower Dialogue Expansion - Uthgerd the Unbroken"
-    },
-    "9b93da276eb9477acba3fcbf88fb67ab": {
-      "best_translation": {
-        "lang": "pt_br",
-        "mod_version": "3.0.0.0",
-        "trans_file_id": 450273,
-        "trans_mod_id": 96165,
-        "translation_version": "3.0.0"
-      },
-      "original_id": "69248",
-      "original_name": "Amorous Adventures for OStim Standalone - Patch and Fixes"
-    },
-    "9cb8df7d8381ee87bdd32b535361a24f": {
-      "best_translation": {
-        "lang": "pt_br",
-        "mod_version": "f1.02",
-        "trans_file_id": 545224,
-        "trans_mod_id": 110685,
-        "translation_version": "1.02"
-      },
-      "original_id": "110116",
-      "original_name": "Face Sculptor Expanded"
-    },
-    "9e698f62604435e9e10a2c28337562ef": {
-      "best_translation": {
-        "lang": "pt_br",
-        "mod_version": "f1.02",
-        "trans_file_id": 535439,
-        "trans_mod_id": 116214,
-        "translation_version": "1.02"
-      },
-      "original_id": "114054",
-      "original_name": "Infiltration - Quest Expansion"
-    },
-    "9efc20413a5ee79738f531e0522bb224": {
-      "best_translation": {
-        "lang": "pt_br",
-        "mod_version": "2.48.0.0",
-        "trans_file_id": 610882,
-        "trans_mod_id": 146064,
-        "translation_version": "2.48"
-      },
-      "original_id": "30174",
-      "original_name": "CBBE 3BA"
-    },
-    "a0e236e1fec20842218ac1eb86ce9819": {
-      "best_translation": {
-        "lang": "pt_br",
-        "mod_version": "1.0.0.0",
-        "trans_file_id": 483517,
-        "trans_mod_id": 114867,
-        "translation_version": "1.0"
-      },
-      "original_id": "114859",
-      "original_name": "Ashtoreth - Silent Woods - 3BA - ESPFE"
-    },
-    "a6d2cbb47c77768de1f428e386356d5a": {
-      "best_translation": {
-        "lang": "pt_br",
-        "mod_version": "1.0.0.0",
-        "trans_file_id": 565940,
-        "trans_mod_id": 134814,
-        "translation_version": "1"
-      },
-      "original_id": "134694",
-      "original_name": "Follower Dialogue Expansion - Roggi Knot-Beard"
-    },
-    "a735a3f37d453a1c57cf4ce928bbd7ae": {
-      "best_translation": {
-        "lang": "pt_br",
-        "mod_version": "f1.02",
-        "trans_file_id": 459635,
-        "trans_mod_id": 85143,
-        "translation_version": "1.02"
-      },
-      "original_id": "83484",
-      "original_name": "Vampire Lines Expansion"
-    },
-    "a9486df34c92193ac49844ce35d10d31": {
-      "best_translation": {
-        "lang": "pt_br",
-        "mod_version": "1.2.3.0",
-        "trans_file_id": 681355,
-        "trans_mod_id": 162957,
-        "translation_version": "1.2.3"
-      },
-      "original_id": "142226",
-      "original_name": "Feris - Custom Voiced Rogue Follower"
-    },
-    "ac07483d6d9334f8960028ed16788324": {
-      "best_translation": {
-        "lang": "pt_br",
-        "mod_version": "1.0.4.0",
-        "trans_file_id": 659941,
-        "trans_mod_id": 157918,
-        "translation_version": "1.0.4"
-      },
-      "original_id": "140633",
-      "original_name": "Legendary Enemies"
-    },
-    "b0ec7a0b946cd98234f36de3f4392fdc": {
-      "best_translation": {
-        "lang": "pt_br",
-        "mod_version": "1.7.0.0",
-        "trans_file_id": 630625,
-        "trans_mod_id": 120874,
-        "translation_version": "1.7.0"
-      },
-      "original_id": "108159",
-      "original_name": "Acheron - Death Alternative"
-    },
-    "b353781ffbaf69467d267ba4b0e7272e": {
-      "best_translation": {
-        "lang": "pt_br",
-        "mod_version": "1.0.0.0",
-        "trans_file_id": 656618,
-        "trans_mod_id": 157075,
-        "translation_version": "1"
-      },
-      "original_id": "157012",
-      "original_name": "Follower Dialogue Expansion - Eola"
-    },
-    "b3892b80823e6bc38d6e310096b241e0": {
-      "best_translation": {
-        "lang": "pt_br",
-        "mod_version": "1.1.0.0",
-        "trans_file_id": 326816,
-        "trans_mod_id": 77593,
-        "translation_version": "1.01"
-      },
-      "original_id": "77566",
-      "original_name": "Civil War Lines Expansion"
-    },
-    "b6cfe1d34db3807665decdf468d22e4e": {
-      "best_translation": {
-        "lang": "pt_br",
-        "mod_version": "2.2.1.0",
-        "trans_file_id": 583769,
-        "trans_mod_id": 113776,
-        "translation_version": "2.2.1"
-      },
-      "original_id": "110935",
-      "original_name": "Skyrim Food Expansion"
-    },
-    "b865b245ba74c97af97f0624ccf06e75": {
-      "best_translation": {
-        "lang": "pt_br",
-        "mod_version": "3.0.0.0",
-        "trans_file_id": 640378,
-        "trans_mod_id": 113721,
-        "translation_version": "3.0"
-      },
-      "original_id": "113359",
-      "original_name": "Follower Dialogue Expansion - Brelyna Maryon"
-    },
-    "bb9f6381aaaae221fe56796202f53cfd": {
-      "best_translation": {
-        "lang": "pt_br",
-        "mod_version": "f1.02",
-        "trans_file_id": 459639,
-        "trans_mod_id": 80216,
-        "translation_version": "1.02"
-      },
-      "original_id": "80188",
-      "original_name": "Forsworn and Thalmor Lines Expansion"
-    },
-    "bbaa987f5f02af585f3abaccc49b066f": {
-      "best_translation": {
-        "lang": "pt_br",
-        "mod_version": "2.1.3.0",
-        "trans_file_id": 426043,
-        "trans_mod_id": 89717,
-        "translation_version": "2.1.3"
-      },
-      "original_id": "89241",
-      "original_name": "B.O.O.B.I.E.S (aka Immersive Icons)"
-    },
-    "c091bc9b247bc0306a1861d16f938c16": {
-      "best_translation": {
-        "lang": "pt_br",
-        "mod_version": "2.1.0.0",
-        "trans_file_id": 653179,
-        "trans_mod_id": 156298,
-        "translation_version": "2.1"
-      },
-      "original_id": "23673",
-      "original_name": "Choose Your Sign"
-    },
-    "c11ec8e8d304c4b0b9b96aa9504ba08b": {
-      "best_translation": {
-        "lang": "pt_br",
-        "mod_version": "1.1.3.0",
-        "trans_file_id": 547238,
-        "trans_mod_id": 117932,
-        "translation_version": "1.1.3"
-      },
-      "original_id": "117930",
-      "original_name": "Follower Dialogue Expansion - Jordis the Sword-Maiden"
-    },
-    "c3ec907cc2e1ec6e46d55cc02d498a20": {
-      "best_translation": {
-        "lang": "pt_br",
-        "mod_version": "1.0.0.0",
-        "trans_file_id": 653122,
-        "trans_mod_id": 156284,
-        "translation_version": "1.0.0"
-      },
-      "original_id": "145580",
-      "original_name": "Destroy the Acolyte Priests"
-    },
-    "c68d6874a124d94467738b912b8bd887": {
-      "best_translation": {
-        "lang": "pt_br",
-        "mod_version": "6.0.1.0",
-        "trans_file_id": 680822,
-        "trans_mod_id": 120360,
-        "translation_version": "6.0.1"
-      },
-      "original_id": "120255",
-      "original_name": "Follower Dialogue Expansion - Jenassa"
-    },
-    "cb1fab0e2389f407b881576d30b30834": {
-      "best_translation": {
-        "lang": "pt_br",
-        "mod_version": "9.31.0.0",
-        "trans_file_id": 257416,
-        "trans_mod_id": 62103,
-        "translation_version": "9.31.0"
-      },
-      "original_id": "1137",
-      "original_name": "Ordinator - Perks of Skyrim"
-    },
-    "cbdb8282eebcb47f6a986d4046b268ca": {
-      "best_translation": {
-        "lang": "pt_br",
-        "mod_version": "1.1.0.0",
-        "trans_file_id": 585163,
-        "trans_mod_id": 133586,
-        "translation_version": "1.1"
-      },
-      "original_id": "133571",
-      "original_name": "Follower Dialogue Expansion - Borgakh the Steel Heart"
-    },
-    "cf4676c1e24fb6732928a1faae627316": {
-      "best_translation": {
-        "lang": "pt_br",
-        "mod_version": "3.15.0.0",
-        "trans_file_id": 649415,
-        "trans_mod_id": 155335,
-        "translation_version": "3.15"
-      },
-      "original_id": "17846",
-      "original_name": "Keep It Clean - A Bathing mod"
-    },
-    "d6ab0f78d1b6785ed400e7cf85af33f9": {
-      "best_translation": {
-        "lang": "pt_br",
-        "mod_version": "2.0.5.0",
-        "trans_file_id": 593058,
-        "trans_mod_id": 141420,
-        "translation_version": "2.0.5"
-      },
-      "original_id": "112141",
-      "original_name": "Battle Scythe"
-    },
-    "dabed6a1d02b01eb8ed263385f11e2d8": {
-      "best_translation": {
-        "lang": "pt_br",
-        "mod_version": "1.0.0.0",
-        "trans_file_id": 369129,
-        "trans_mod_id": 87176,
-        "translation_version": "1.0"
-      },
-      "original_id": "86891",
-      "original_name": "Asura's Guard"
-    },
-    "dca1fb5f5f27facaa66b5b73598f08bb": {
-      "best_translation": {
-        "lang": "pt_br",
-        "mod_version": "2.0.0.0",
-        "trans_file_id": 308278,
-        "trans_mod_id": 73540,
-        "translation_version": "2"
-      },
-      "original_id": "16788",
-      "original_name": "Immersive Weapons"
-    },
-    "df8a9c28639814ebe7593eeb016f5224": {
-      "best_translation": {
-        "lang": "pt_br",
-        "mod_version": "1.3.0.0",
-        "trans_file_id": 653119,
-        "trans_mod_id": 156279,
-        "translation_version": "1.3"
-      },
-      "original_id": "83274",
-      "original_name": "Cult of the World Eater - Dragon Priests Buff Alduin"
-    },
-    "e04acaf551c3b80d57d50636ad154977": {
-      "best_translation": {
-        "lang": "pt_br",
-        "mod_version": "1.1.0.0",
-        "trans_file_id": 355558,
-        "trans_mod_id": 83739,
-        "translation_version": "1.1"
-      },
-      "original_id": "83261",
-      "original_name": "[full_inu] Queen Marika's Dress SSE"
-    },
-    "e208976e03deaa74997bd29062c6062d": {
-      "best_translation": {
-        "lang": "pt_br",
-        "mod_version": "f1.02",
-        "trans_file_id": 403586,
-        "trans_mod_id": 94315,
-        "translation_version": "1.02"
-      },
-      "original_id": "94070",
-      "original_name": "Brawl Lines Expansion and Fixes"
-    },
-    "e2b5f61d795d443a7fd7819ec8c57b46": {
-      "best_translation": {
-        "lang": "pt_br",
-        "mod_version": "1.1.0.0",
-        "trans_file_id": 529600,
-        "trans_mod_id": 126345,
-        "translation_version": "1.1.0"
-      },
-      "original_id": "106773",
-      "original_name": "Amorous Adventures OStim Standalone - OStim Sequences"
-    },
-    "e4aade72d4039c840f3d7c4513e1ec83": {
-      "best_translation": {
-        "lang": "pt_br",
-        "mod_version": "1.0.1.0",
-        "trans_file_id": 660106,
-        "trans_mod_id": 157955,
-        "translation_version": "1.0.1"
-      },
-      "original_id": "29352",
-      "original_name": "Cosmic Spells"
-    },
-    "f0f45ef500f59722f5df186a3f72fabc": {
-      "best_translation": {
-        "lang": "pt_br",
-        "mod_version": "1.0.0.0",
-        "trans_file_id": 484882,
-        "trans_mod_id": 115235,
-        "translation_version": "1.0"
-      },
-      "original_id": "115187",
-      "original_name": "ColdSun's Visions - Karla Raven - The Revenant - Follower"
-    },
-    "f1f1628a9f5e6d83fc239119c61d1b10": {
-      "best_translation": {
-        "lang": "pt_br",
-        "mod_version": "1.3.0.0",
-        "trans_file_id": 324140,
-        "trans_mod_id": 77138,
-        "translation_version": "1.3.0"
-      },
-      "original_id": "73354",
-      "original_name": "CC's Camping Expansion"
-    },
-    "f5bbf78fc6710fe362be7fcd1e899c28": {
-      "best_translation": {
-        "lang": "pt_br",
-        "mod_version": "2.0.0.0",
-        "trans_file_id": 633425,
-        "trans_mod_id": 141958,
-        "translation_version": "2.0"
-      },
-      "original_id": "141907",
-      "original_name": "Follower Dialogue Expansion - Aranea Ienith"
-    },
-    "f6c0117867122fef4f7c1d7efafe4835": {
-      "best_translation": {
-        "lang": "pt_br",
-        "mod_version": "1.1.0.0",
-        "trans_file_id": 432913,
-        "trans_mod_id": 101794,
-        "translation_version": "1.1"
-      },
-      "original_id": "100562",
-      "original_name": "Dremora Lines Expansion"
-    },
     "03a3759082b2d04d6e05f9adfdbba921": {
       "best_translation": {
+        "author_name": "Jiudp",
+        "author_url": "https://www.nexusmods.com/users/42712940",
         "lang": "pt_br",
         "mod_version": "?",
         "trans_file_id": 699485,
@@ -1034,8 +65,36 @@
       "original_id": "32998",
       "original_name": "GLENMORIL SE"
     },
+    "06949a044db2f1a8b966ce5bad96f764": {
+      "best_translation": {
+        "author_name": "Granhadd",
+        "author_url": "https://www.nexusmods.com/users/34479385",
+        "lang": "pt_br",
+        "mod_version": "1.8.7.0",
+        "trans_file_id": 628259,
+        "trans_mod_id": 122060,
+        "translation_version": "1.8.7"
+      },
+      "original_id": "21654",
+      "original_name": "AI Overhaul SSE"
+    },
+    "0697100805a9c50d1b9e1fc5f2c77c51": {
+      "best_translation": {
+        "author_name": "Granhadd",
+        "author_url": "https://www.nexusmods.com/users/34479385",
+        "lang": "pt_br",
+        "mod_version": "1.1.6",
+        "trans_file_id": 623801,
+        "trans_mod_id": 90415,
+        "translation_version": "1.1.6"
+      },
+      "original_id": "90405",
+      "original_name": "Arclight"
+    },
     "08bdfa440325df205eb5668721a0f36c": {
       "best_translation": {
+        "author_name": "Granhadd",
+        "author_url": "https://www.nexusmods.com/users/34479385",
         "lang": "pt_br",
         "mod_version": "1.11.0.0",
         "trans_file_id": 535433,
@@ -1045,8 +104,23 @@
       "original_id": "91480",
       "original_name": "NPCs React To Invisibility"
     },
+    "0c537a9cc667e229a327a5aa7324b24b": {
+      "best_translation": {
+        "author_name": "Granhadd",
+        "author_url": "https://www.nexusmods.com/users/34479385",
+        "lang": "pt_br",
+        "mod_version": "1.1.7",
+        "trans_file_id": 623804,
+        "trans_mod_id": 91799,
+        "translation_version": "1.1.7"
+      },
+      "original_id": "91602",
+      "original_name": "Arcane"
+    },
     "0d9a86510a18b076cd2606f46c71363d": {
       "best_translation": {
+        "author_name": "Granhadd",
+        "author_url": "https://www.nexusmods.com/users/34479385",
         "lang": "pt_br",
         "mod_version": "1.1.12.0",
         "trans_file_id": 498853,
@@ -1056,8 +130,23 @@
       "original_id": "96876",
       "original_name": "Gourmet - A Cooking Overhaul"
     },
+    "0e68553fa0212c549b733ae1d80cdf62": {
+      "best_translation": {
+        "author_name": "Zoonkky",
+        "author_url": "https://www.nexusmods.com/users/226766544",
+        "lang": "pt_br",
+        "mod_version": "2.1.0.0",
+        "trans_file_id": 660164,
+        "trans_mod_id": 157968,
+        "translation_version": "2.1"
+      },
+      "original_id": "40367",
+      "original_name": "Just Cast It - Magic Rebound"
+    },
     "0fb144dc3c6d450517f38ec3e9781bdd": {
       "best_translation": {
+        "author_name": "Granhadd",
+        "author_url": "https://www.nexusmods.com/users/34479385",
         "lang": "pt_br",
         "mod_version": "f1.00",
         "trans_file_id": 498880,
@@ -1067,8 +156,36 @@
       "original_id": "117661",
       "original_name": "Modern Wait Menu"
     },
+    "13800b3586295f15192f4a3e19dbf62c": {
+      "best_translation": {
+        "author_name": "Leandro0021",
+        "author_url": "https://www.nexusmods.com/users/17124344",
+        "lang": "pt_br",
+        "mod_version": "2.6.1.0",
+        "trans_file_id": 651880,
+        "trans_mod_id": 156004,
+        "translation_version": "2.6.1"
+      },
+      "original_id": "135288",
+      "original_name": "Bathing in Skyrim - Renewed"
+    },
+    "14ac78d5113339ac1438c657ece2b4f6": {
+      "best_translation": {
+        "author_name": "WolfSondar",
+        "author_url": "https://www.nexusmods.com/users/193835081",
+        "lang": "pt_br",
+        "mod_version": "1.54.0.0",
+        "trans_file_id": 576285,
+        "trans_mod_id": 137352,
+        "translation_version": "1.54"
+      },
+      "original_id": "115106",
+      "original_name": "Ancient Blood Magic II"
+    },
     "1565c15e165fb34232c35d941f4de41b": {
       "best_translation": {
+        "author_name": "Granhadd",
+        "author_url": "https://www.nexusmods.com/users/34479385",
         "lang": "pt_br",
         "mod_version": "1.1.0.0",
         "trans_file_id": 346997,
@@ -1080,6 +197,8 @@
     },
     "174b04d8c7ee83c025da2acb68a49936": {
       "best_translation": {
+        "author_name": "Granhadd",
+        "author_url": "https://www.nexusmods.com/users/34479385",
         "lang": "pt_br",
         "mod_version": "1.2.6.0",
         "trans_file_id": 572382,
@@ -1091,6 +210,8 @@
     },
     "1ac24e1d3e14ab19b406c3ca9cc36b7e": {
       "best_translation": {
+        "author_name": "Granhadd",
+        "author_url": "https://www.nexusmods.com/users/34479385",
         "lang": "pt_br",
         "mod_version": "4.0.5",
         "trans_file_id": 623794,
@@ -1102,6 +223,8 @@
     },
     "1c0770aab7f2fc2190ef49d4af38f535": {
       "best_translation": {
+        "author_name": "Fruhand",
+        "author_url": "https://www.nexusmods.com/users/3727430",
         "lang": "pt_br",
         "mod_version": "f1.01",
         "trans_file_id": 303436,
@@ -1111,8 +234,36 @@
       "original_id": "36506",
       "original_name": "Cheesemod for EVERYONE"
     },
+    "2078e98334898332394f9054e5baa459": {
+      "best_translation": {
+        "author_name": "Granhadd",
+        "author_url": "https://www.nexusmods.com/users/34479385",
+        "lang": "pt_br",
+        "mod_version": "1.1.2.0",
+        "trans_file_id": 609211,
+        "trans_mod_id": 145635,
+        "translation_version": "1.1.02"
+      },
+      "original_id": "9252",
+      "original_name": "Immersive College NPCs"
+    },
+    "20d19f777a00edbbbc80c3550d9a1169": {
+      "best_translation": {
+        "author_name": "Granhadd",
+        "author_url": "https://www.nexusmods.com/users/34479385",
+        "lang": "pt_br",
+        "mod_version": "1.3.0.0",
+        "trans_file_id": 600381,
+        "trans_mod_id": 116048,
+        "translation_version": "1.3"
+      },
+      "original_id": "116025",
+      "original_name": "Follower Dialogue Expansion - Mjoll the Lioness"
+    },
     "215c3bd8cdd530d5b0e26d5f3e175290": {
       "best_translation": {
+        "author_name": "Granhadd",
+        "author_url": "https://www.nexusmods.com/users/34479385",
         "lang": "pt_br",
         "mod_version": "2.0.6",
         "trans_file_id": 478069,
@@ -1124,6 +275,8 @@
     },
     "221031d90b7c4d40ebd53ff9bc5ecd8b": {
       "best_translation": {
+        "author_name": "Jiudp",
+        "author_url": "https://www.nexusmods.com/users/42712940",
         "lang": "pt_br",
         "mod_version": "2.7.0.0",
         "trans_file_id": 371473,
@@ -1135,6 +288,8 @@
     },
     "229982449837db6ad491023de59c378e": {
       "best_translation": {
+        "author_name": "Granhadd",
+        "author_url": "https://www.nexusmods.com/users/34479385",
         "lang": "pt_br",
         "mod_version": "1.0.0.0",
         "trans_file_id": 456144,
@@ -1144,8 +299,23 @@
       "original_id": "107492",
       "original_name": "NPCs React To Frenzy"
     },
+    "24e4f620d820292ceeb03882101a3b66": {
+      "best_translation": {
+        "author_name": "Granhadd",
+        "author_url": "https://www.nexusmods.com/users/34479385",
+        "lang": "pt_br",
+        "mod_version": "1.7.0.0",
+        "trans_file_id": 574615,
+        "trans_mod_id": 134132,
+        "translation_version": "1.7"
+      },
+      "original_id": "134088",
+      "original_name": "Common Clothing Expansion"
+    },
     "2503b5d57dafcd257b1a0d93c940786f": {
       "best_translation": {
+        "author_name": "ViniSEPz",
+        "author_url": "https://www.nexusmods.com/users/183802545",
         "lang": "pt_br",
         "mod_version": "3.2.0.0",
         "trans_file_id": 431771,
@@ -1155,8 +325,49 @@
       "original_id": "4301",
       "original_name": "Moon and Star"
     },
+    "2a6c807a7f52aafc09e5967612133053": {
+      "best_translation": {
+        "author_name": "Granhadd",
+        "author_url": "https://www.nexusmods.com/users/34479385",
+        "lang": "pt_br",
+        "mod_version": "1.1.0.0",
+        "trans_file_id": 521454,
+        "trans_mod_id": 98145,
+        "translation_version": "1.1"
+      },
+      "original_id": "90570",
+      "original_name": "Amorous Adventures for Ostim - Script Fix"
+    },
+    "2b025f3f9a9f2388b80a9d4dd595120b": {
+      "best_translation": {
+        "author_name": "kaironn2",
+        "author_url": "https://www.nexusmods.com/users/31095500",
+        "lang": "pt_br",
+        "mod_version": "1.0.4.0",
+        "trans_file_id": 425979,
+        "trans_mod_id": 100672,
+        "translation_version": "1.0.4"
+      },
+      "original_id": "92000",
+      "original_name": "Ascension 2"
+    },
+    "2b144ae43eaa21d907641774b36701bd": {
+      "best_translation": {
+        "author_name": "OMensageiro637",
+        "author_url": "https://www.nexusmods.com/users/163264873",
+        "lang": "pt_br",
+        "mod_version": "1.4.0.0",
+        "trans_file_id": 566590,
+        "trans_mod_id": 134985,
+        "translation_version": "1.4"
+      },
+      "original_id": "28952",
+      "original_name": "Cities of the North - Dawnstar"
+    },
     "2b1e7f74fd4632fb193994debe5b6d50": {
       "best_translation": {
+        "author_name": "Granhadd",
+        "author_url": "https://www.nexusmods.com/users/34479385",
         "lang": "pt_br",
         "mod_version": "2.0.7",
         "trans_file_id": 478063,
@@ -1166,8 +377,75 @@
       "original_id": "86833",
       "original_name": "Stellaris"
     },
+    "2cff64fbdf784901980a3197140703fa": {
+      "best_translation": {
+        "author_name": "Granhadd",
+        "author_url": "https://www.nexusmods.com/users/34479385",
+        "lang": "pt_br",
+        "mod_version": "1.0.1.0",
+        "trans_file_id": 628257,
+        "trans_mod_id": 147504,
+        "translation_version": "1.0.1"
+      },
+      "original_id": "147428",
+      "original_name": "Follower Dialogue Expansion - Sapphire (FDE)"
+    },
+    "2d77bd38dec326310635b2b49f0ab62f": {
+      "best_translation": {
+        "author_name": "Granhadd",
+        "author_url": "https://www.nexusmods.com/users/34479385",
+        "lang": "pt_br",
+        "mod_version": "f1.06",
+        "trans_file_id": 523171,
+        "trans_mod_id": 65820,
+        "translation_version": "1.06"
+      },
+      "original_id": "65708",
+      "original_name": "Caught Red Handed - Quest Expansion"
+    },
+    "2e840dfca59f8e89e16ef2055e90f8b6": {
+      "best_translation": {
+        "author_name": "miguelKNJK",
+        "author_url": "https://www.nexusmods.com/users/46105052",
+        "lang": "pt_br",
+        "mod_version": "2.6.0.0",
+        "trans_file_id": 412578,
+        "trans_mod_id": 97238,
+        "translation_version": "2.6"
+      },
+      "original_id": "13972",
+      "original_name": "Artifacts - The Ice Blade of the Monarch [SSE]"
+    },
+    "3066ae0fd57779f3c10d921003709dcc": {
+      "best_translation": {
+        "author_name": "Granhadd",
+        "author_url": "https://www.nexusmods.com/users/34479385",
+        "lang": "pt_br",
+        "mod_version": "1.1.0.0",
+        "trans_file_id": 650886,
+        "trans_mod_id": 130442,
+        "translation_version": "1.1"
+      },
+      "original_id": "130418",
+      "original_name": "Follower Dialogue Expansion - Faendal"
+    },
+    "337d8182dd34934d3138bade381658ac": {
+      "best_translation": {
+        "author_name": "OMensageiro637",
+        "author_url": "https://www.nexusmods.com/users/163264873",
+        "lang": "pt_br",
+        "mod_version": "1.3.1.0",
+        "trans_file_id": 566595,
+        "trans_mod_id": 134989,
+        "translation_version": "1.3.1"
+      },
+      "original_id": "56731",
+      "original_name": "Cities of the North - Falkreath - Hotfix"
+    },
     "3396b6dabe29cf1c034427cca6db2a59": {
       "best_translation": {
+        "author_name": "xation222",
+        "author_url": "https://www.nexusmods.com/users/119995323",
         "lang": "pt_br",
         "mod_version": "1.0.0.0",
         "trans_file_id": 648182,
@@ -1177,8 +455,23 @@
       "original_id": "51199",
       "original_name": "Tonal Architect"
     },
+    "3491af3813778eb0811682840def61a1": {
+      "best_translation": {
+        "author_name": "Granhadd",
+        "author_url": "https://www.nexusmods.com/users/34479385",
+        "lang": "pt_br",
+        "mod_version": "1.12.0.0",
+        "trans_file_id": 387990,
+        "trans_mod_id": 77060,
+        "translation_version": "1.12"
+      },
+      "original_id": "51711",
+      "original_name": "Paarthurnax - Quest Expansion"
+    },
     "34cc77121ae482bf672b3f2b06ea0e6b": {
       "best_translation": {
+        "author_name": "miguelKNJK",
+        "author_url": "https://www.nexusmods.com/users/46105052",
         "lang": "pt_br",
         "mod_version": "1.3.0.0",
         "trans_file_id": 412185,
@@ -1190,6 +483,8 @@
     },
     "3593f847bb4dac1b3038b0deaa49bf7f": {
       "best_translation": {
+        "author_name": "Granhadd",
+        "author_url": "https://www.nexusmods.com/users/34479385",
         "lang": "pt_br",
         "mod_version": "1.2.6",
         "trans_file_id": 623799,
@@ -1199,8 +494,23 @@
       "original_id": "88689",
       "original_name": "Vulcano"
     },
+    "364e5fb4e0ce69966393219a49a82bae": {
+      "best_translation": {
+        "author_name": "Zoonkky",
+        "author_url": "https://www.nexusmods.com/users/226766544",
+        "lang": "pt_br",
+        "mod_version": "1.2.0.0",
+        "trans_file_id": 655299,
+        "trans_mod_id": 156802,
+        "translation_version": "1.2.0"
+      },
+      "original_id": "88043",
+      "original_name": "Freyr - Integrated Standing Stones of Skyrim"
+    },
     "36a4d76dde533afc559b571d99c67dfd": {
       "best_translation": {
+        "author_name": "Granhadd",
+        "author_url": "https://www.nexusmods.com/users/34479385",
         "lang": "pt_br",
         "mod_version": "1.4.5.0",
         "trans_file_id": 447824,
@@ -1212,6 +522,8 @@
     },
     "376c768ca932ba0b05cd458163c69bcb": {
       "best_translation": {
+        "author_name": "INinu",
+        "author_url": "https://www.nexusmods.com/users/91574703",
         "lang": "pt_br",
         "mod_version": "4.5.0.0",
         "trans_file_id": 567295,
@@ -1221,8 +533,23 @@
       "original_id": "56095",
       "original_name": "Lux Orbis"
     },
+    "391cf00861d3b2d51a0d8662395752f9": {
+      "best_translation": {
+        "author_name": "MBaliver",
+        "author_url": "https://www.nexusmods.com/users/54872602",
+        "lang": "pt_br",
+        "mod_version": "1.8.0.0",
+        "trans_file_id": 608106,
+        "trans_mod_id": 145384,
+        "translation_version": "1.8"
+      },
+      "original_id": "1179",
+      "original_name": "The Forgotten City"
+    },
     "398b16b1dd6ec5b431b3723a4d6a976c": {
       "best_translation": {
+        "author_name": "Granhadd",
+        "author_url": "https://www.nexusmods.com/users/34479385",
         "lang": "pt_br",
         "mod_version": "1.3.6",
         "trans_file_id": 478076,
@@ -1232,8 +559,23 @@
       "original_id": "80852",
       "original_name": "Lunaris"
     },
+    "3a2142f95d1cd133a1dbeb0e8d06355a": {
+      "best_translation": {
+        "author_name": "Zoonkky",
+        "author_url": "https://www.nexusmods.com/users/226766544",
+        "lang": "pt_br",
+        "mod_version": "3.0.1.0",
+        "trans_file_id": 655260,
+        "trans_mod_id": 156791,
+        "translation_version": "3.0.1"
+      },
+      "original_id": "87219",
+      "original_name": "Mannaz - Integrated Races of Skyrim"
+    },
     "3a8abf834d1027e98272339ce28c4b6b": {
       "best_translation": {
+        "author_name": "OMensageiro637",
+        "author_url": "https://www.nexusmods.com/users/163264873",
         "lang": "pt_br",
         "mod_version": "1.2.0.0",
         "trans_file_id": 564780,
@@ -1245,6 +587,8 @@
     },
     "3aca46b1190e5a31f9e1fab9573388db": {
       "best_translation": {
+        "author_name": "Granhadd",
+        "author_url": "https://www.nexusmods.com/users/34479385",
         "lang": "pt_br",
         "mod_version": "1.2.0",
         "trans_file_id": 306502,
@@ -1254,8 +598,36 @@
       "original_id": "17561",
       "original_name": "UIExtensions"
     },
+    "3bf639d37193abbcb4947aa850ca808f": {
+      "best_translation": {
+        "author_name": "Maatsuki",
+        "author_url": "https://www.nexusmods.com/users/59340891",
+        "lang": "pt_br",
+        "mod_version": "1.1.0.0",
+        "trans_file_id": 443868,
+        "trans_mod_id": 104452,
+        "translation_version": "1.1"
+      },
+      "original_id": "104241",
+      "original_name": "Abyss 3BA"
+    },
+    "3e2f11531c4da6ae4086e2528198717e": {
+      "best_translation": {
+        "author_name": "Granhadd",
+        "author_url": "https://www.nexusmods.com/users/34479385",
+        "lang": "pt_br",
+        "mod_version": "f1.05",
+        "trans_file_id": 559255,
+        "trans_mod_id": 58087,
+        "translation_version": "1.05"
+      },
+      "original_id": "57683",
+      "original_name": "The Only Cure - Quest Expansion"
+    },
     "4057d7b3a3fe68cb2b51db7846bed924": {
       "best_translation": {
+        "author_name": "Granhadd",
+        "author_url": "https://www.nexusmods.com/users/34479385",
         "lang": "pt_br",
         "mod_version": "69.69.0.0",
         "trans_file_id": 486376,
@@ -1267,6 +639,8 @@
     },
     "408a30947432201058b429932cac9f60": {
       "best_translation": {
+        "author_name": "Egelord",
+        "author_url": "https://www.nexusmods.com/users/33310245",
         "lang": "pt_br",
         "mod_version": "2.0.0.0",
         "trans_file_id": 100728,
@@ -1278,6 +652,8 @@
     },
     "40ac0d648655ce27dd45df0cc018c7ee": {
       "best_translation": {
+        "author_name": "SirOminos",
+        "author_url": "https://www.nexusmods.com/users/90970738",
         "lang": "pt_br",
         "mod_version": "1.8.4.0",
         "trans_file_id": 612848,
@@ -1289,6 +665,8 @@
     },
     "41e6ad4a835acf1df7180e6669dd1c7a": {
       "best_translation": {
+        "author_name": "INinu",
+        "author_url": "https://www.nexusmods.com/users/91574703",
         "lang": "pt_br",
         "mod_version": "1.0.0.0",
         "trans_file_id": 366122,
@@ -1298,8 +676,36 @@
       "original_id": "69767",
       "original_name": "Secret Child of Talos - CBBE 3BA"
     },
+    "444aefbef866dda2f37f0687acc728dd": {
+      "best_translation": {
+        "author_name": "Granhadd",
+        "author_url": "https://www.nexusmods.com/users/34479385",
+        "lang": "pt_br",
+        "mod_version": "1.0.0.0",
+        "trans_file_id": 625837,
+        "trans_mod_id": 149748,
+        "translation_version": "1"
+      },
+      "original_id": "149724",
+      "original_name": "Immersive Dialogue Expansion - Whiterun"
+    },
+    "4a117178a7757385fd394a7103b1b993": {
+      "best_translation": {
+        "author_name": "OMensageiro637",
+        "author_url": "https://www.nexusmods.com/users/163264873",
+        "lang": "pt_br",
+        "mod_version": "1.2.0.0",
+        "trans_file_id": 566903,
+        "trans_mod_id": 135063,
+        "translation_version": "1.2"
+      },
+      "original_id": "34168",
+      "original_name": "Cities of the North - Morthal"
+    },
     "4bd0925e16219467c824c30901cfd955": {
       "best_translation": {
+        "author_name": "Maatsuki",
+        "author_url": "https://www.nexusmods.com/users/59340891",
         "lang": "pt_br",
         "mod_version": "1.0.0.0",
         "trans_file_id": 450181,
@@ -1309,19 +715,49 @@
       "original_id": "106430",
       "original_name": "Dangerous Gladiator - 3BA"
     },
-    "51dbe105d587e799efeb7ad7f7b90122": {
+    "5034996f62d51f464157f06c53c49cdd": {
       "best_translation": {
+        "author_name": "Granhadd",
+        "author_url": "https://www.nexusmods.com/users/34479385",
         "lang": "pt_br",
-        "mod_version": "1.7.4.0",
-        "trans_file_id": 431632,
-        "trans_mod_id": 101929,
-        "translation_version": "1.74"
+        "mod_version": "f1.01",
+        "trans_file_id": 578952,
+        "trans_mod_id": 121617,
+        "translation_version": "1.01"
       },
-      "original_id": "9138",
-      "original_name": "Zim's Immersive Artifacts"
+      "original_id": "120995",
+      "original_name": "Falmer Servant Lines Expansion"
+    },
+    "522d7786845a456198c744fe2e908ede": {
+      "best_translation": {
+        "author_name": "Zoonkky",
+        "author_url": "https://www.nexusmods.com/users/226766544",
+        "lang": "pt_br",
+        "mod_version": "1.10.0.0",
+        "trans_file_id": 661189,
+        "trans_mod_id": 158198,
+        "translation_version": "1.10"
+      },
+      "original_id": "356",
+      "original_name": "Black Mage Armor SE"
+    },
+    "56cb71f29c9d708bd87963d3c81e1f04": {
+      "best_translation": {
+        "author_name": "VallZod",
+        "author_url": "https://www.nexusmods.com/users/185884812",
+        "lang": "pt_br",
+        "mod_version": "2.0.1.0",
+        "trans_file_id": 584756,
+        "trans_mod_id": 139441,
+        "translation_version": "2.0.1"
+      },
+      "original_id": "128173",
+      "original_name": "Mage Clothing Expansion"
     },
     "590ce65574ba1f63cf604c1dbcbcbfd4": {
       "best_translation": {
+        "author_name": "Granhadd",
+        "author_url": "https://www.nexusmods.com/users/34479385",
         "lang": "pt_br",
         "mod_version": "3.4.1.0",
         "trans_file_id": 593916,
@@ -1333,6 +769,8 @@
     },
     "5b18aadd08d664fb0c64b5c422fcdcc4": {
       "best_translation": {
+        "author_name": "xAlkaiserx",
+        "author_url": "https://www.nexusmods.com/users/32522115",
         "lang": "pt_br",
         "mod_version": "6.0.0.0",
         "trans_file_id": 631160,
@@ -1342,8 +780,23 @@
       "original_id": "3928",
       "original_name": "Sacrosanct - Vampires of Skyrim"
     },
+    "5e5ba69af3a990fa0fc2f33dae7156f7": {
+      "best_translation": {
+        "author_name": "Granhadd",
+        "author_url": "https://www.nexusmods.com/users/34479385",
+        "lang": "pt_br",
+        "mod_version": "2.0.0.0",
+        "trans_file_id": 578466,
+        "trans_mod_id": 137848,
+        "translation_version": "2.0"
+      },
+      "original_id": "137845",
+      "original_name": "Follower Dialogue Expansion - Illia"
+    },
     "5ffdd15b2587ad9250d3a6b447ad1f4d": {
       "best_translation": {
+        "author_name": "Granhadd",
+        "author_url": "https://www.nexusmods.com/users/34479385",
         "lang": "pt_br",
         "mod_version": "f2.03",
         "trans_file_id": 364243,
@@ -1353,8 +806,36 @@
       "original_id": "66125",
       "original_name": "NPCs Wear Amulets of Mara PLUS"
     },
+    "61c2d10fe03ad8461d79f7a52e15b538": {
+      "best_translation": {
+        "author_name": "CalebeHC",
+        "author_url": "https://www.nexusmods.com/users/81368148",
+        "lang": "pt_br",
+        "mod_version": "1.6.3.0",
+        "trans_file_id": 697564,
+        "trans_mod_id": 166994,
+        "translation_version": "1.6.3"
+      },
+      "original_id": "20035",
+      "original_name": "Lucien - Immersive Fully Voiced Male Follower"
+    },
+    "653a5f3cf0fb05b77a27c291b12172d1": {
+      "best_translation": {
+        "author_name": "Zoonkky",
+        "author_url": "https://www.nexusmods.com/users/226766544",
+        "lang": "pt_br",
+        "mod_version": "1.0.0.0",
+        "trans_file_id": 660140,
+        "trans_mod_id": 157964,
+        "translation_version": "1.0"
+      },
+      "original_id": "59951",
+      "original_name": "Weapon Armor Attribute Tweaks"
+    },
     "661f06305186980a9d8b3795560892b7": {
       "best_translation": {
+        "author_name": "Granhadd",
+        "author_url": "https://www.nexusmods.com/users/34479385",
         "lang": "pt_br",
         "mod_version": "1.2.2.0",
         "trans_file_id": 524221,
@@ -1364,8 +845,36 @@
       "original_id": "52270",
       "original_name": "OComfort - OStim Lovers Comfort"
     },
+    "6648e3d594b95e0a83ee8ffece3a6e6e": {
+      "best_translation": {
+        "author_name": "Granhadd",
+        "author_url": "https://www.nexusmods.com/users/34479385",
+        "lang": "pt_br",
+        "mod_version": "1.0.0.0",
+        "trans_file_id": 237572,
+        "trans_mod_id": 57604,
+        "translation_version": "1"
+      },
+      "original_id": "25094",
+      "original_name": "Dawnguard Arsenal SSE"
+    },
+    "67637db2918a5de78afce8ac1df3de13": {
+      "best_translation": {
+        "author_name": "GreenLinz",
+        "author_url": "https://www.nexusmods.com/users/56374857",
+        "lang": "pt_br",
+        "mod_version": "3.0.0.0b",
+        "trans_file_id": 617012,
+        "trans_mod_id": 147601,
+        "translation_version": "3.0b"
+      },
+      "original_id": "718",
+      "original_name": "Immersive Patrols (Heavy)"
+    },
     "68448af598f6d04b255670789ce907a7": {
       "best_translation": {
+        "author_name": "Granhadd",
+        "author_url": "https://www.nexusmods.com/users/34479385",
         "lang": "pt_br",
         "mod_version": "2.4.2.0",
         "trans_file_id": 489734,
@@ -1377,6 +886,8 @@
     },
     "68fe4900399c72f16af583c030a90d4c": {
       "best_translation": {
+        "author_name": "Granhadd",
+        "author_url": "https://www.nexusmods.com/users/34479385",
         "lang": "pt_br",
         "mod_version": "1.7.0.0",
         "trans_file_id": 426197,
@@ -1388,6 +899,8 @@
     },
     "6922d94efbc11a708dd77ebdb52de246": {
       "best_translation": {
+        "author_name": "Granhadd",
+        "author_url": "https://www.nexusmods.com/users/34479385",
         "lang": "pt_br",
         "mod_version": "1.5.2.0",
         "trans_file_id": 604120,
@@ -1397,8 +910,36 @@
       "original_id": "123521",
       "original_name": "The Dragonborn's Bestiary"
     },
+    "69955fbd8d6896d9fab2753ee5b38685": {
+      "best_translation": {
+        "author_name": "Granhadd",
+        "author_url": "https://www.nexusmods.com/users/34479385",
+        "lang": "pt_br",
+        "mod_version": "1.4.0.0",
+        "trans_file_id": 416068,
+        "trans_mod_id": 97194,
+        "translation_version": "1.4"
+      },
+      "original_id": "97185",
+      "original_name": "Vampire Clothing Expansion"
+    },
+    "6aac60e2540bfc7640e12a1d1f0d2469": {
+      "best_translation": {
+        "author_name": "Granhadd",
+        "author_url": "https://www.nexusmods.com/users/34479385",
+        "lang": "pt_br",
+        "mod_version": "f1.01",
+        "trans_file_id": 536420,
+        "trans_mod_id": 123279,
+        "translation_version": "1.01"
+      },
+      "original_id": "120802",
+      "original_name": "Ascend - Hidden Peaks of Skyrim"
+    },
     "6bd7fc9c88b40eab160a0bcbe8708724": {
       "best_translation": {
+        "author_name": "Granhadd",
+        "author_url": "https://www.nexusmods.com/users/34479385",
         "lang": "pt_br",
         "mod_version": "1.0.0.0",
         "trans_file_id": 604091,
@@ -1410,6 +951,8 @@
     },
     "6c755efa1d3d540d274f36280ff17422": {
       "best_translation": {
+        "author_name": "Granhadd",
+        "author_url": "https://www.nexusmods.com/users/34479385",
         "lang": "pt_br",
         "mod_version": "f1.05",
         "trans_file_id": 452581,
@@ -1419,8 +962,23 @@
       "original_id": "53074",
       "original_name": "Leaps of Faith - A Misc Quest"
     },
+    "6d2de753b9c7bb890b161c0cd0fdb5ff": {
+      "best_translation": {
+        "author_name": "Granhadd",
+        "author_url": "https://www.nexusmods.com/users/34479385",
+        "lang": "pt_br",
+        "mod_version": "1.13.0.0",
+        "trans_file_id": 462842,
+        "trans_mod_id": 87575,
+        "translation_version": "1.13"
+      },
+      "original_id": "67930",
+      "original_name": "Immersive Rejections"
+    },
     "7007287c10b23196894e7fc9bb44d133": {
       "best_translation": {
+        "author_name": "Granhadd",
+        "author_url": "https://www.nexusmods.com/users/34479385",
         "lang": "pt_br",
         "mod_version": "5.6.0.0",
         "trans_file_id": 682838,
@@ -1430,8 +988,23 @@
       "original_id": "71182",
       "original_name": "Twilight Princess Armor Mashup"
     },
+    "7160f93571379fdd23354e840f267e77": {
+      "best_translation": {
+        "author_name": "Granhadd",
+        "author_url": "https://www.nexusmods.com/users/34479385",
+        "lang": "pt_br",
+        "mod_version": "f1.09",
+        "trans_file_id": 459657,
+        "trans_mod_id": 64488,
+        "translation_version": "1.09"
+      },
+      "original_id": "63733",
+      "original_name": "Bandit Lines Expansion"
+    },
     "74bae265c52570c92ecbd6bc6713db04": {
       "best_translation": {
+        "author_name": "kaironn2",
+        "author_url": "https://www.nexusmods.com/users/31095500",
         "lang": "pt_br",
         "mod_version": "1.8.0.0",
         "trans_file_id": 428467,
@@ -1441,8 +1014,23 @@
       "original_id": "39170",
       "original_name": "Triumvirate - Mage Archetypes"
     },
+    "76dd97b5f2a6a6bd1622c99835d4347c": {
+      "best_translation": {
+        "author_name": "Jarl1",
+        "author_url": "https://www.nexusmods.com/users/82418388",
+        "lang": "pt_br",
+        "mod_version": "1.6.0",
+        "trans_file_id": 160368,
+        "trans_mod_id": 40391,
+        "translation_version": "1.6.0SE"
+      },
+      "original_id": "595",
+      "original_name": "Immersive Wenches"
+    },
     "77611dac2ecc6d582f140652631116b6": {
       "best_translation": {
+        "author_name": "KlowdyTMS",
+        "author_url": "https://www.nexusmods.com/users/184900080",
         "lang": "pt_br",
         "mod_version": "1.0.0.0",
         "trans_file_id": 681663,
@@ -1454,6 +1042,8 @@
     },
     "7a202d5de80f5b310a0515800ebad25a": {
       "best_translation": {
+        "author_name": "Granhadd",
+        "author_url": "https://www.nexusmods.com/users/34479385",
         "lang": "pt_br",
         "mod_version": "2.0.6",
         "trans_file_id": 478066,
@@ -1463,8 +1053,23 @@
       "original_id": "86292",
       "original_name": "Necrom"
     },
+    "7bb7555d65ebcd03c22ca4678f8e3267": {
+      "best_translation": {
+        "author_name": "SirOminos",
+        "author_url": "https://www.nexusmods.com/users/90970738",
+        "lang": "pt_br",
+        "mod_version": "10.2.1.0",
+        "trans_file_id": 661609,
+        "trans_mod_id": 158281,
+        "translation_version": "10.2.1"
+      },
+      "original_id": "1090",
+      "original_name": "Apocalypse - Magic of Skyrim"
+    },
     "7fd8e3b7cfc51f7851e2c675396aaf20": {
       "best_translation": {
+        "author_name": "Granhadd",
+        "author_url": "https://www.nexusmods.com/users/34479385",
         "lang": "pt_br",
         "mod_version": "1.4.0.0",
         "trans_file_id": 558184,
@@ -1476,6 +1081,8 @@
     },
     "816f002b02d206878b8b54427155acb9": {
       "best_translation": {
+        "author_name": null,
+        "author_url": null,
         "lang": "pt_br",
         "mod_version": "1.7.1.0",
         "trans_file_id": 518455,
@@ -1485,8 +1092,23 @@
       "original_id": "90053",
       "original_name": "OStim Lovers"
     },
+    "81ee8e04b2108c4e0cb9ea98f43db14c": {
+      "best_translation": {
+        "author_name": "Granhadd",
+        "author_url": "https://www.nexusmods.com/users/34479385",
+        "lang": "pt_br",
+        "mod_version": "2.0.1.1",
+        "trans_file_id": 621368,
+        "trans_mod_id": 116748,
+        "translation_version": "2.0.1.1"
+      },
+      "original_id": "116719",
+      "original_name": "Follower Dialogue Expansion - Erik the Slayer"
+    },
     "83712aad35434d7d8f94e58620baa1ce": {
       "best_translation": {
+        "author_name": "ViniSEP",
+        "author_url": "https://www.nexusmods.com/users/98747528",
         "lang": "pt_br",
         "mod_version": "1.2.0.0",
         "trans_file_id": 520525,
@@ -1496,8 +1118,23 @@
       "original_id": "19178",
       "original_name": "The Sinister Seven SSE"
     },
+    "83983f816d733ebd6bb890ab070eff0d": {
+      "best_translation": {
+        "author_name": "Granhadd",
+        "author_url": "https://www.nexusmods.com/users/34479385",
+        "lang": "pt_br",
+        "mod_version": "2.0.0.0",
+        "trans_file_id": 538509,
+        "trans_mod_id": 124974,
+        "translation_version": "2.0"
+      },
+      "original_id": "124787",
+      "original_name": "Follower Dialogue Expansion - Ysolda"
+    },
     "8639b263e49ab84e61826fb82bac286c": {
       "best_translation": {
+        "author_name": "Maatsuki",
+        "author_url": "https://www.nexusmods.com/users/59340891",
         "lang": "pt_br",
         "mod_version": "3.1.0.0",
         "trans_file_id": 418098,
@@ -1509,6 +1146,8 @@
     },
     "865cff3d99e10fcddf932db50104cc1c": {
       "best_translation": {
+        "author_name": "INinu",
+        "author_url": "https://www.nexusmods.com/users/91574703",
         "lang": "pt_br",
         "mod_version": "2.2.0.0",
         "trans_file_id": 508748,
@@ -1520,8 +1159,10 @@
     },
     "876dba7e4a230d710b7e9f67ef00c1a6": {
       "best_translation": {
+        "author_name": "Granhadd",
+        "author_url": "https://www.nexusmods.com/users/34479385",
         "lang": "pt_br",
-        "mod_version": "2.0.1",
+        "mod_version": "d2025.6.23.0",
         "trans_file_id": 478077,
         "trans_mod_id": 90017,
         "translation_version": "2.0.1"
@@ -1529,8 +1170,23 @@
       "original_id": "74302",
       "original_name": "Inquisition"
     },
+    "89206f5afdafd236e4400f6dab4e95a6": {
+      "best_translation": {
+        "author_name": "Granhadd",
+        "author_url": "https://www.nexusmods.com/users/34479385",
+        "lang": "pt_br",
+        "mod_version": "1.15.0.0",
+        "trans_file_id": 441474,
+        "trans_mod_id": 70804,
+        "translation_version": "1.15"
+      },
+      "original_id": "66666",
+      "original_name": "College of Winterhold - Quest Expansion"
+    },
     "8b692252bdb1d6b146f3228d2298489f": {
       "best_translation": {
+        "author_name": "Jiudp",
+        "author_url": "https://www.nexusmods.com/users/42712940",
         "lang": "pt_br",
         "mod_version": "2.1.0.0",
         "trans_file_id": 417776,
@@ -1542,6 +1198,8 @@
     },
     "8da5ccbbb11bfc15ac3cef2de7596a23": {
       "best_translation": {
+        "author_name": "CalebeHC",
+        "author_url": "https://www.nexusmods.com/users/81368148",
         "lang": "pt_br",
         "mod_version": "2.4.0.0C",
         "trans_file_id": 693390,
@@ -1551,8 +1209,75 @@
       "original_id": "1461",
       "original_name": "INIGO"
     },
+    "8ef720e56ff2dda7918eb7ac9a87055e": {
+      "best_translation": {
+        "author_name": "INinu",
+        "author_url": "https://www.nexusmods.com/users/91574703",
+        "lang": "pt_br",
+        "mod_version": "6.10.0.0",
+        "trans_file_id": 660310,
+        "trans_mod_id": 46598,
+        "translation_version": "6.10.0"
+      },
+      "original_id": "11802",
+      "original_name": "Legacy of the Dragonborn SSE"
+    },
+    "8f054b659cc12af7baed1048188fdab4": {
+      "best_translation": {
+        "author_name": "KlowdyTMS",
+        "author_url": "https://www.nexusmods.com/users/184900080",
+        "lang": "pt_br",
+        "mod_version": "3.0.0.0",
+        "trans_file_id": 682115,
+        "trans_mod_id": 163169,
+        "translation_version": "3.0"
+      },
+      "original_id": "156225",
+      "original_name": "360 Ward"
+    },
+    "90cb8e89bb8a42b09e37226b1a0b08f3": {
+      "best_translation": {
+        "author_name": "Granhadd",
+        "author_url": "https://www.nexusmods.com/users/34479385",
+        "lang": "pt_br",
+        "mod_version": "2.0.0.0",
+        "trans_file_id": 644279,
+        "trans_mod_id": 143971,
+        "translation_version": "2.0"
+      },
+      "original_id": "143288",
+      "original_name": "Follower Dialogue Expansion - Rayya"
+    },
+    "9285b6aacad2b34b4495b7fbae328912": {
+      "best_translation": {
+        "author_name": "Granhadd",
+        "author_url": "https://www.nexusmods.com/users/34479385",
+        "lang": "pt_br",
+        "mod_version": "3.1.6",
+        "trans_file_id": 623797,
+        "trans_mod_id": 90076,
+        "translation_version": "3.1.6"
+      },
+      "original_id": "83329",
+      "original_name": "Abyss"
+    },
+    "92cc5aa1a33bab4b964d71db6359921b": {
+      "best_translation": {
+        "author_name": "JackBR222",
+        "author_url": "https://www.nexusmods.com/users/192944120",
+        "lang": "pt_br",
+        "mod_version": "3.0.4.0",
+        "trans_file_id": 634855,
+        "trans_mod_id": 151917,
+        "translation_version": "3.0.4"
+      },
+      "original_id": "24104",
+      "original_name": "Atlas Map Markers - Updated with MCM"
+    },
     "96bdb5035291c63f99cad974b9a074dc": {
       "best_translation": {
+        "author_name": "Granhadd",
+        "author_url": "https://www.nexusmods.com/users/34479385",
         "lang": "pt_br",
         "mod_version": "1.0.0.0",
         "trans_file_id": 252311,
@@ -1562,8 +1287,49 @@
       "original_id": "60842",
       "original_name": "Wind Ruler Armor SE"
     },
+    "99086e6b560b4393290b3c5e05fdb73a": {
+      "best_translation": {
+        "author_name": "Granhadd",
+        "author_url": "https://www.nexusmods.com/users/34479385",
+        "lang": "pt_br",
+        "mod_version": "2.0.0.0",
+        "trans_file_id": 560560,
+        "trans_mod_id": 122517,
+        "translation_version": "2.0"
+      },
+      "original_id": "122487",
+      "original_name": "Follower Dialogue Expansion - Uthgerd the Unbroken"
+    },
+    "9b93da276eb9477acba3fcbf88fb67ab": {
+      "best_translation": {
+        "author_name": "Granhadd",
+        "author_url": "https://www.nexusmods.com/users/34479385",
+        "lang": "pt_br",
+        "mod_version": "3.0.0.0",
+        "trans_file_id": 450273,
+        "trans_mod_id": 96165,
+        "translation_version": "3.0.0"
+      },
+      "original_id": "69248",
+      "original_name": "Amorous Adventures for OStim Standalone - Patch and Fixes"
+    },
+    "9cb8df7d8381ee87bdd32b535361a24f": {
+      "best_translation": {
+        "author_name": "Granhadd",
+        "author_url": "https://www.nexusmods.com/users/34479385",
+        "lang": "pt_br",
+        "mod_version": "f1.02",
+        "trans_file_id": 545224,
+        "trans_mod_id": 110685,
+        "translation_version": "1.02"
+      },
+      "original_id": "110116",
+      "original_name": "Face Sculptor Expanded"
+    },
     "9d5f5ea03eb6a486ba4ebcf777f6735d": {
       "best_translation": {
+        "author_name": "Jarl1",
+        "author_url": "https://www.nexusmods.com/users/82418388",
         "lang": "pt_br",
         "mod_version": "2.1.1.0",
         "trans_file_id": 172082,
@@ -1573,8 +1339,62 @@
       "original_id": "19075",
       "original_name": "Kaidan 2"
     },
+    "9e698f62604435e9e10a2c28337562ef": {
+      "best_translation": {
+        "author_name": "Granhadd",
+        "author_url": "https://www.nexusmods.com/users/34479385",
+        "lang": "pt_br",
+        "mod_version": "f1.02",
+        "trans_file_id": 535439,
+        "trans_mod_id": 116214,
+        "translation_version": "1.02"
+      },
+      "original_id": "114054",
+      "original_name": "Infiltration - Quest Expansion"
+    },
+    "9efc20413a5ee79738f531e0522bb224": {
+      "best_translation": {
+        "author_name": "Uvick1993",
+        "author_url": "https://www.nexusmods.com/users/181089642",
+        "lang": "pt_br",
+        "mod_version": "2.48.0.0",
+        "trans_file_id": 610882,
+        "trans_mod_id": 146064,
+        "translation_version": "2.48"
+      },
+      "original_id": "30174",
+      "original_name": "CBBE 3BA"
+    },
+    "a067e1de85b4aedf7719cd8219ffd5a5": {
+      "best_translation": {
+        "author_name": "DuHNunes",
+        "author_url": "https://www.nexusmods.com/users/68221862",
+        "lang": "pt_br",
+        "mod_version": "1.0",
+        "trans_file_id": 288407,
+        "trans_mod_id": 69030,
+        "translation_version": "1.0"
+      },
+      "original_id": "35785",
+      "original_name": "Expressive Facegen Morphs SE"
+    },
+    "a0e236e1fec20842218ac1eb86ce9819": {
+      "best_translation": {
+        "author_name": "Maatsuki",
+        "author_url": "https://www.nexusmods.com/users/59340891",
+        "lang": "pt_br",
+        "mod_version": "1.0.0.0",
+        "trans_file_id": 483517,
+        "trans_mod_id": 114867,
+        "translation_version": "1.0"
+      },
+      "original_id": "114859",
+      "original_name": "Ashtoreth - Silent Woods - 3BA - ESPFE"
+    },
     "a2d7c24551f6add36b8bffd7237d6682": {
       "best_translation": {
+        "author_name": "Granhadd",
+        "author_url": "https://www.nexusmods.com/users/34479385",
         "lang": "pt_br",
         "mod_version": "1.4.0.0",
         "trans_file_id": 505319,
@@ -1586,6 +1406,8 @@
     },
     "a474830620a6afa4ba9410d15cdf176e": {
       "best_translation": {
+        "author_name": "samurailuc",
+        "author_url": "https://www.nexusmods.com/users/55900227",
         "lang": "pt_br",
         "mod_version": "1.7.0.0",
         "trans_file_id": 361982,
@@ -1597,6 +1419,8 @@
     },
     "a516ad65806016aab84d6487f76245f7": {
       "best_translation": {
+        "author_name": "Granhadd",
+        "author_url": "https://www.nexusmods.com/users/34479385",
         "lang": "pt_br",
         "mod_version": "1.2.2.0",
         "trans_file_id": 499249,
@@ -1606,8 +1430,49 @@
       "original_id": "100915",
       "original_name": "Plus Combat"
     },
+    "a6d2cbb47c77768de1f428e386356d5a": {
+      "best_translation": {
+        "author_name": "Granhadd",
+        "author_url": "https://www.nexusmods.com/users/34479385",
+        "lang": "pt_br",
+        "mod_version": "1.0.0.0",
+        "trans_file_id": 565940,
+        "trans_mod_id": 134814,
+        "translation_version": "1"
+      },
+      "original_id": "134694",
+      "original_name": "Follower Dialogue Expansion - Roggi Knot-Beard"
+    },
+    "a735a3f37d453a1c57cf4ce928bbd7ae": {
+      "best_translation": {
+        "author_name": "Granhadd",
+        "author_url": "https://www.nexusmods.com/users/34479385",
+        "lang": "pt_br",
+        "mod_version": "f1.02",
+        "trans_file_id": 459635,
+        "trans_mod_id": 85143,
+        "translation_version": "1.02"
+      },
+      "original_id": "83484",
+      "original_name": "Vampire Lines Expansion"
+    },
+    "a9486df34c92193ac49844ce35d10d31": {
+      "best_translation": {
+        "author_name": "Zoonkky",
+        "author_url": "https://www.nexusmods.com/users/226766544",
+        "lang": "pt_br",
+        "mod_version": "1.2.3.0",
+        "trans_file_id": 681355,
+        "trans_mod_id": 162957,
+        "translation_version": "1.2.3"
+      },
+      "original_id": "142226",
+      "original_name": "Feris - Custom Voiced Rogue Follower"
+    },
     "aa90e7ad1eb2c547f4e3fd52a4edc579": {
       "best_translation": {
+        "author_name": "Wolffiezin",
+        "author_url": "https://www.nexusmods.com/users/82238148",
         "lang": "pt_br",
         "mod_version": "3.0.0.0",
         "trans_file_id": 406214,
@@ -1617,8 +1482,36 @@
       "original_id": "69701",
       "original_name": "Twinblades of Skyrim"
     },
+    "ac07483d6d9334f8960028ed16788324": {
+      "best_translation": {
+        "author_name": "Zoonkky",
+        "author_url": "https://www.nexusmods.com/users/226766544",
+        "lang": "pt_br",
+        "mod_version": "1.0.4.0",
+        "trans_file_id": 659941,
+        "trans_mod_id": 157918,
+        "translation_version": "1.0.4"
+      },
+      "original_id": "140633",
+      "original_name": "Legendary Enemies"
+    },
+    "b0ec7a0b946cd98234f36de3f4392fdc": {
+      "best_translation": {
+        "author_name": "Granhadd",
+        "author_url": "https://www.nexusmods.com/users/34479385",
+        "lang": "pt_br",
+        "mod_version": "1.7.0.0",
+        "trans_file_id": 630625,
+        "trans_mod_id": 120874,
+        "translation_version": "1.7.0"
+      },
+      "original_id": "108159",
+      "original_name": "Acheron - Death Alternative"
+    },
     "b239e06f017a426fa4a6ef65dbd19d54": {
       "best_translation": {
+        "author_name": "baianobot",
+        "author_url": "https://www.nexusmods.com/users/195114521",
         "lang": "pt_br",
         "mod_version": "1.0.0.0",
         "trans_file_id": 595431,
@@ -1630,6 +1523,8 @@
     },
     "b24b51f48b943218fb7e5e175adc370d": {
       "best_translation": {
+        "author_name": "baianobot",
+        "author_url": "https://www.nexusmods.com/users/195114521",
         "lang": "pt_br",
         "mod_version": "1",
         "trans_file_id": 594112,
@@ -1639,8 +1534,36 @@
       "original_id": "141507",
       "original_name": "Apothecary - 3BA"
     },
+    "b353781ffbaf69467d267ba4b0e7272e": {
+      "best_translation": {
+        "author_name": "Granhadd",
+        "author_url": "https://www.nexusmods.com/users/34479385",
+        "lang": "pt_br",
+        "mod_version": "1.0.0.0",
+        "trans_file_id": 656618,
+        "trans_mod_id": 157075,
+        "translation_version": "1"
+      },
+      "original_id": "157012",
+      "original_name": "Follower Dialogue Expansion - Eola"
+    },
+    "b3892b80823e6bc38d6e310096b241e0": {
+      "best_translation": {
+        "author_name": "Granhadd",
+        "author_url": "https://www.nexusmods.com/users/34479385",
+        "lang": "pt_br",
+        "mod_version": "1.1.0.0",
+        "trans_file_id": 326816,
+        "trans_mod_id": 77593,
+        "translation_version": "1.01"
+      },
+      "original_id": "77566",
+      "original_name": "Civil War Lines Expansion"
+    },
     "b5b4cc7a3424c26a8841ce67b6c52399": {
       "best_translation": {
+        "author_name": "Granhadd",
+        "author_url": "https://www.nexusmods.com/users/34479385",
         "lang": "pt_br",
         "mod_version": "0.4.19.16",
         "trans_file_id": 433985,
@@ -1652,6 +1575,8 @@
     },
     "b5f11232e239aeca0620a311bb16640f": {
       "best_translation": {
+        "author_name": "Granhadd",
+        "author_url": "https://www.nexusmods.com/users/34479385",
         "lang": "pt_br",
         "mod_version": "1.0.0.0",
         "trans_file_id": 547383,
@@ -1663,6 +1588,8 @@
     },
     "b6876624806ae13e41646cca3dc94b3a": {
       "best_translation": {
+        "author_name": "Granhadd",
+        "author_url": "https://www.nexusmods.com/users/34479385",
         "lang": "pt_br",
         "mod_version": "5.5.0.0a",
         "trans_file_id": 351747,
@@ -1672,8 +1599,114 @@
       "original_id": "22671",
       "original_name": "Guards Armor Replacer SSE"
     },
+    "b6cfe1d34db3807665decdf468d22e4e": {
+      "best_translation": {
+        "author_name": "Maatsuki",
+        "author_url": "https://www.nexusmods.com/users/59340891",
+        "lang": "pt_br",
+        "mod_version": "2.2.1.0",
+        "trans_file_id": 583769,
+        "trans_mod_id": 113776,
+        "translation_version": "2.2.1"
+      },
+      "original_id": "110935",
+      "original_name": "Skyrim Food Expansion"
+    },
+    "b865b245ba74c97af97f0624ccf06e75": {
+      "best_translation": {
+        "author_name": "Granhadd",
+        "author_url": "https://www.nexusmods.com/users/34479385",
+        "lang": "pt_br",
+        "mod_version": "3.0.0.0",
+        "trans_file_id": 640378,
+        "trans_mod_id": 113721,
+        "translation_version": "3.0"
+      },
+      "original_id": "113359",
+      "original_name": "Follower Dialogue Expansion - Brelyna Maryon"
+    },
+    "b8a5df849fede5d35e11c778995f82ee": {
+      "best_translation": {
+        "author_name": "Zoonkky",
+        "author_url": "https://www.nexusmods.com/users/226766544",
+        "lang": "pt_br",
+        "mod_version": "1.0.5.0",
+        "trans_file_id": 662880,
+        "trans_mod_id": 156289,
+        "translation_version": "1.0.5"
+      },
+      "original_id": "134405",
+      "original_name": "Dac0da"
+    },
+    "bb9f6381aaaae221fe56796202f53cfd": {
+      "best_translation": {
+        "author_name": "Granhadd",
+        "author_url": "https://www.nexusmods.com/users/34479385",
+        "lang": "pt_br",
+        "mod_version": "f1.02",
+        "trans_file_id": 459639,
+        "trans_mod_id": 80216,
+        "translation_version": "1.02"
+      },
+      "original_id": "80188",
+      "original_name": "Forsworn and Thalmor Lines Expansion"
+    },
+    "bbaa987f5f02af585f3abaccc49b066f": {
+      "best_translation": {
+        "author_name": "Granhadd",
+        "author_url": "https://www.nexusmods.com/users/34479385",
+        "lang": "pt_br",
+        "mod_version": "2.1.3.0",
+        "trans_file_id": 426043,
+        "trans_mod_id": 89717,
+        "translation_version": "2.1.3"
+      },
+      "original_id": "89241",
+      "original_name": "B.O.O.B.I.E.S (aka Immersive Icons)"
+    },
+    "c091bc9b247bc0306a1861d16f938c16": {
+      "best_translation": {
+        "author_name": "Zoonkky",
+        "author_url": "https://www.nexusmods.com/users/226766544",
+        "lang": "pt_br",
+        "mod_version": "2.1.0.0",
+        "trans_file_id": 653179,
+        "trans_mod_id": 156298,
+        "translation_version": "2.1"
+      },
+      "original_id": "23673",
+      "original_name": "Choose Your Sign"
+    },
+    "c119b5813c3a887161022dce3d7fc72a": {
+      "best_translation": {
+        "author_name": "baianobot",
+        "author_url": "https://www.nexusmods.com/users/195114521",
+        "lang": "pt_br",
+        "mod_version": "?",
+        "trans_file_id": 598922,
+        "trans_mod_id": 142836,
+        "translation_version": "1.0"
+      },
+      "original_id": "140245",
+      "original_name": "[ELLE] Sena"
+    },
+    "c11ec8e8d304c4b0b9b96aa9504ba08b": {
+      "best_translation": {
+        "author_name": "Granhadd",
+        "author_url": "https://www.nexusmods.com/users/34479385",
+        "lang": "pt_br",
+        "mod_version": "1.1.3.0",
+        "trans_file_id": 547238,
+        "trans_mod_id": 117932,
+        "translation_version": "1.1.3"
+      },
+      "original_id": "117930",
+      "original_name": "Follower Dialogue Expansion - Jordis the Sword-Maiden"
+    },
     "c1af0900d738b7413e7bc4350ac263b5": {
       "best_translation": {
+        "author_name": "SirOminos",
+        "author_url": "https://www.nexusmods.com/users/90970738",
         "lang": "pt_br",
         "mod_version": "1.0.3.0",
         "trans_file_id": 601083,
@@ -1683,8 +1716,23 @@
       "original_id": "98784",
       "original_name": "Subclasses of Skyrim 2"
     },
+    "c3ec907cc2e1ec6e46d55cc02d498a20": {
+      "best_translation": {
+        "author_name": "Zoonkky",
+        "author_url": "https://www.nexusmods.com/users/226766544",
+        "lang": "pt_br",
+        "mod_version": "1.0.0.0",
+        "trans_file_id": 653122,
+        "trans_mod_id": 156284,
+        "translation_version": "1.0.0"
+      },
+      "original_id": "145580",
+      "original_name": "Destroy the Acolyte Priests"
+    },
     "c624e4f319737772aaa188f94daf532f": {
       "best_translation": {
+        "author_name": "INinu",
+        "author_url": "https://www.nexusmods.com/users/91574703",
         "lang": "pt_br",
         "mod_version": "4.54.0.0",
         "trans_file_id": 378345,
@@ -1696,6 +1744,8 @@
     },
     "c64f11a582270b99de2ea9fc3409d7a2": {
       "best_translation": {
+        "author_name": "DuHNunes",
+        "author_url": "https://www.nexusmods.com/users/68221862",
         "lang": "pt_br",
         "mod_version": "1.1.9.0",
         "trans_file_id": 650204,
@@ -1705,8 +1755,23 @@
       "original_id": "62775",
       "original_name": "TrueHUD - HUD Additions"
     },
+    "c68d6874a124d94467738b912b8bd887": {
+      "best_translation": {
+        "author_name": "Granhadd",
+        "author_url": "https://www.nexusmods.com/users/34479385",
+        "lang": "pt_br",
+        "mod_version": "6.0.1.0",
+        "trans_file_id": 680822,
+        "trans_mod_id": 120360,
+        "translation_version": "6.0.1"
+      },
+      "original_id": "120255",
+      "original_name": "Follower Dialogue Expansion - Jenassa"
+    },
     "ca914ec80427574d4ba9d3793956d522": {
       "best_translation": {
+        "author_name": "Granhadd",
+        "author_url": "https://www.nexusmods.com/users/34479385",
         "lang": "pt_br",
         "mod_version": "1.20.2.0",
         "trans_file_id": 504916,
@@ -1716,8 +1781,36 @@
       "original_id": "45565",
       "original_name": "Wyrmstooth"
     },
+    "cb1fab0e2389f407b881576d30b30834": {
+      "best_translation": {
+        "author_name": "QueridoAsno",
+        "author_url": "https://www.nexusmods.com/users/26887429",
+        "lang": "pt_br",
+        "mod_version": "9.31.0.0",
+        "trans_file_id": 257416,
+        "trans_mod_id": 62103,
+        "translation_version": "9.31.0"
+      },
+      "original_id": "1137",
+      "original_name": "Ordinator - Perks of Skyrim"
+    },
+    "cbdb8282eebcb47f6a986d4046b268ca": {
+      "best_translation": {
+        "author_name": "Granhadd",
+        "author_url": "https://www.nexusmods.com/users/34479385",
+        "lang": "pt_br",
+        "mod_version": "1.1.0.0",
+        "trans_file_id": 585163,
+        "trans_mod_id": 133586,
+        "translation_version": "1.1"
+      },
+      "original_id": "133571",
+      "original_name": "Follower Dialogue Expansion - Borgakh the Steel Heart"
+    },
     "cf1bdc35067c65ed9a9b3d6371ef3e9b": {
       "best_translation": {
+        "author_name": "OMensageiro637",
+        "author_url": "https://www.nexusmods.com/users/163264873",
         "lang": "pt_br",
         "mod_version": "9.2.0.0",
         "trans_file_id": 576351,
@@ -1727,8 +1820,23 @@
       "original_id": "26138",
       "original_name": "Skyrim Landscape and Water Fixes"
     },
+    "cf4676c1e24fb6732928a1faae627316": {
+      "best_translation": {
+        "author_name": "Zoonkky",
+        "author_url": "https://www.nexusmods.com/users/226766544",
+        "lang": "pt_br",
+        "mod_version": "3.15.0.0",
+        "trans_file_id": 649415,
+        "trans_mod_id": 155335,
+        "translation_version": "3.15"
+      },
+      "original_id": "17846",
+      "original_name": "Keep It Clean - A Bathing mod"
+    },
     "d63fc0e8770969e05016fc71dfa2ddae": {
       "best_translation": {
+        "author_name": "Granhadd",
+        "author_url": "https://www.nexusmods.com/users/34479385",
         "lang": "pt_br",
         "mod_version": "1.0.3",
         "trans_file_id": 478051,
@@ -1740,6 +1848,8 @@
     },
     "d646c937c4e0ceadebf8dbfc82429702": {
       "best_translation": {
+        "author_name": "Granhadd",
+        "author_url": "https://www.nexusmods.com/users/34479385",
         "lang": "pt_br",
         "mod_version": "?",
         "trans_file_id": 622489,
@@ -1749,8 +1859,49 @@
       "original_id": "98163",
       "original_name": "OStim Standalone"
     },
+    "d6ab0f78d1b6785ed400e7cf85af33f9": {
+      "best_translation": {
+        "author_name": "gustavolmg",
+        "author_url": "https://www.nexusmods.com/users/45837367",
+        "lang": "pt_br",
+        "mod_version": "2.0.5.0",
+        "trans_file_id": 593058,
+        "trans_mod_id": 141420,
+        "translation_version": "2.0.5"
+      },
+      "original_id": "112141",
+      "original_name": "Battle Scythe"
+    },
+    "dabed6a1d02b01eb8ed263385f11e2d8": {
+      "best_translation": {
+        "author_name": "Granhadd",
+        "author_url": "https://www.nexusmods.com/users/34479385",
+        "lang": "pt_br",
+        "mod_version": "1.0.0.0",
+        "trans_file_id": 369129,
+        "trans_mod_id": 87176,
+        "translation_version": "1.0"
+      },
+      "original_id": "86891",
+      "original_name": "Asura's Guard"
+    },
+    "dca1fb5f5f27facaa66b5b73598f08bb": {
+      "best_translation": {
+        "author_name": "Granhadd",
+        "author_url": "https://www.nexusmods.com/users/34479385",
+        "lang": "pt_br",
+        "mod_version": "2.0.0.0",
+        "trans_file_id": 308278,
+        "trans_mod_id": 73540,
+        "translation_version": "2"
+      },
+      "original_id": "16788",
+      "original_name": "Immersive Weapons"
+    },
     "dd3ed80528a321b01e5f0ff59de6704a": {
       "best_translation": {
+        "author_name": "JackBR222",
+        "author_url": "https://www.nexusmods.com/users/192944120",
         "lang": "pt_br",
         "mod_version": "4.7.3.0",
         "trans_file_id": 631577,
@@ -1760,8 +1911,62 @@
       "original_id": "2227",
       "original_name": "Khajiit Will Follow"
     },
+    "df8a9c28639814ebe7593eeb016f5224": {
+      "best_translation": {
+        "author_name": "Zoonkky",
+        "author_url": "https://www.nexusmods.com/users/226766544",
+        "lang": "pt_br",
+        "mod_version": "1.3.0.0",
+        "trans_file_id": 653119,
+        "trans_mod_id": 156279,
+        "translation_version": "1.3"
+      },
+      "original_id": "83274",
+      "original_name": "Cult of the World Eater - Dragon Priests Buff Alduin"
+    },
+    "e04acaf551c3b80d57d50636ad154977": {
+      "best_translation": {
+        "author_name": "Granhadd",
+        "author_url": "https://www.nexusmods.com/users/34479385",
+        "lang": "pt_br",
+        "mod_version": "1.1.0.0",
+        "trans_file_id": 355558,
+        "trans_mod_id": 83739,
+        "translation_version": "1.1"
+      },
+      "original_id": "83261",
+      "original_name": "[full_inu] Queen Marika's Dress SSE"
+    },
+    "e208976e03deaa74997bd29062c6062d": {
+      "best_translation": {
+        "author_name": "Granhadd",
+        "author_url": "https://www.nexusmods.com/users/34479385",
+        "lang": "pt_br",
+        "mod_version": "f1.02",
+        "trans_file_id": 403586,
+        "trans_mod_id": 94315,
+        "translation_version": "1.02"
+      },
+      "original_id": "94070",
+      "original_name": "Brawl Lines Expansion and Fixes"
+    },
+    "e2b5f61d795d443a7fd7819ec8c57b46": {
+      "best_translation": {
+        "author_name": "Granhadd",
+        "author_url": "https://www.nexusmods.com/users/34479385",
+        "lang": "pt_br",
+        "mod_version": "1.1.0.0",
+        "trans_file_id": 529600,
+        "trans_mod_id": 126345,
+        "translation_version": "1.1.0"
+      },
+      "original_id": "106773",
+      "original_name": "Amorous Adventures OStim Standalone - OStim Sequences"
+    },
     "e2e69383c765d997ae11282be290dd4c": {
       "best_translation": {
+        "author_name": "CalebeHC",
+        "author_url": "https://www.nexusmods.com/users/81368148",
         "lang": "pt_br",
         "mod_version": "f1.04",
         "trans_file_id": 696118,
@@ -1771,8 +1976,23 @@
       "original_id": "35977",
       "original_name": "The Great Town of Shor's Stone SSE"
     },
+    "e4aade72d4039c840f3d7c4513e1ec83": {
+      "best_translation": {
+        "author_name": "Zoonkky",
+        "author_url": "https://www.nexusmods.com/users/226766544",
+        "lang": "pt_br",
+        "mod_version": "1.0.1.0",
+        "trans_file_id": 660106,
+        "trans_mod_id": 157955,
+        "translation_version": "1.0.1"
+      },
+      "original_id": "29352",
+      "original_name": "Cosmic Spells"
+    },
     "ef027161bc5ae19c16e4bc78c87465bd": {
       "best_translation": {
+        "author_name": "Granhadd",
+        "author_url": "https://www.nexusmods.com/users/34479385",
         "lang": "pt_br",
         "mod_version": "f1.03",
         "trans_file_id": 604567,
@@ -1782,8 +2002,36 @@
       "original_id": "70428",
       "original_name": "NPCs React To Necromancy (And More)"
     },
+    "f0f45ef500f59722f5df186a3f72fabc": {
+      "best_translation": {
+        "author_name": "Granhadd",
+        "author_url": "https://www.nexusmods.com/users/34479385",
+        "lang": "pt_br",
+        "mod_version": "1.0.0.0",
+        "trans_file_id": 484882,
+        "trans_mod_id": 115235,
+        "translation_version": "1.0"
+      },
+      "original_id": "115187",
+      "original_name": "ColdSun's Visions - Karla Raven - The Revenant - Follower"
+    },
+    "f1f1628a9f5e6d83fc239119c61d1b10": {
+      "best_translation": {
+        "author_name": "Granhadd",
+        "author_url": "https://www.nexusmods.com/users/34479385",
+        "lang": "pt_br",
+        "mod_version": "1.3.0.0",
+        "trans_file_id": 324140,
+        "trans_mod_id": 77138,
+        "translation_version": "1.3.0"
+      },
+      "original_id": "73354",
+      "original_name": "CC's Camping Expansion"
+    },
     "f4d79d27b12a803e7d009c08b482504f": {
       "best_translation": {
+        "author_name": "ClainAlvim",
+        "author_url": "https://www.nexusmods.com/users/46403987",
         "lang": "pt_br",
         "mod_version": "1.1.0.0",
         "trans_file_id": 566861,
@@ -1795,6 +2043,8 @@
     },
     "f50cf4529366e86e957090df220ca54f": {
       "best_translation": {
+        "author_name": "Jiudp",
+        "author_url": "https://www.nexusmods.com/users/42712940",
         "lang": "pt_br",
         "mod_version": "0.18.4.0",
         "trans_file_id": 446702,
@@ -1804,8 +2054,49 @@
       "original_id": "21061",
       "original_name": "Penitus Oculatus"
     },
+    "f5bbf78fc6710fe362be7fcd1e899c28": {
+      "best_translation": {
+        "author_name": "Granhadd",
+        "author_url": "https://www.nexusmods.com/users/34479385",
+        "lang": "pt_br",
+        "mod_version": "2.0.0.0",
+        "trans_file_id": 633425,
+        "trans_mod_id": 141958,
+        "translation_version": "2.0"
+      },
+      "original_id": "141907",
+      "original_name": "Follower Dialogue Expansion - Aranea Ienith"
+    },
+    "f6c0117867122fef4f7c1d7efafe4835": {
+      "best_translation": {
+        "author_name": "Granhadd",
+        "author_url": "https://www.nexusmods.com/users/34479385",
+        "lang": "pt_br",
+        "mod_version": "1.1.0.0",
+        "trans_file_id": 432913,
+        "trans_mod_id": 101794,
+        "translation_version": "1.1"
+      },
+      "original_id": "100562",
+      "original_name": "Dremora Lines Expansion"
+    },
+    "fbc272916fbe9ddf22bfdee039a81053": {
+      "best_translation": {
+        "author_name": "Granhadd",
+        "author_url": "https://www.nexusmods.com/users/34479385",
+        "lang": "pt_br",
+        "mod_version": "1.0.0.0",
+        "trans_file_id": 390074,
+        "trans_mod_id": 91745,
+        "translation_version": "1.0"
+      },
+      "original_id": "91741",
+      "original_name": "Adventurer HDT-SMP Armor"
+    },
     "fff2f0785d158df735bc4a66e9fc7334": {
       "best_translation": {
+        "author_name": "CooperPF",
+        "author_url": "https://www.nexusmods.com/users/49232523",
         "lang": "pt_br",
         "mod_version": "1.17.6.0",
         "trans_file_id": 547221,
