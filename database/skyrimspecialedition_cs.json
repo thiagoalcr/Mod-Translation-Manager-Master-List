@@ -1,3 +1,17 @@
 {
-  "entries": {}
+  "entries": {
+    "1cac8d6b9db56d655990c5bbefb60e71": {
+      "best_translation": {
+        "author_name": "GrimReaperCZ",
+        "author_url": "https://www.nexusmods.com/users/3038862",
+        "lang": "cs",
+        "mod_version": "f2.08",
+        "trans_file_id": 11322,
+        "trans_mod_id": 3884,
+        "translation_version": "2.04CZv1"
+      },
+      "original_id": "659",
+      "original_name": "Static Mesh Improvement Mod"
+    }
+  }
 }
