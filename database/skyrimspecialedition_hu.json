@@ -1,3 +1,17 @@
 {
-  "entries": {}
+  "entries": {
+    "7160f93571379fdd23354e840f267e77": {
+      "best_translation": {
+        "author_name": "ignussen",
+        "author_url": "https://www.nexusmods.com/users/2497785",
+        "lang": "hu",
+        "mod_version": "f1.09",
+        "trans_file_id": 643787,
+        "trans_mod_id": 154064,
+        "translation_version": "1.09"
+      },
+      "original_id": "63733",
+      "original_name": "Bandit Lines Expansion"
+    }
+  }
 }
