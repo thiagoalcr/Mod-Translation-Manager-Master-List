@@ -1,3 +1,69 @@
 {
-  "entries": {}
+  "entries": {
+    "07bf6d44c852fa0b5a9237414cd7a555": {
+      "best_translation": {
+        "author_name": "soitin",
+        "author_url": "https://www.nexusmods.com/users/42384260",
+        "lang": "uk",
+        "mod_version": "2.2.6.0",
+        "trans_file_id": 598501,
+        "trans_mod_id": 142725,
+        "translation_version": "2.2.6"
+      },
+      "original_id": "51614",
+      "original_name": "True Directional Movement - Modernized Third Person Gameplay"
+    },
+    "1cac8d6b9db56d655990c5bbefb60e71": {
+      "best_translation": {
+        "author_name": "N1ro1x",
+        "author_url": "https://www.nexusmods.com/users/53490611",
+        "lang": "uk",
+        "mod_version": "f2.08",
+        "trans_file_id": 318474,
+        "trans_mod_id": 75918,
+        "translation_version": "2.08"
+      },
+      "original_id": "659",
+      "original_name": "Static Mesh Improvement Mod"
+    },
+    "3aca46b1190e5a31f9e1fab9573388db": {
+      "best_translation": {
+        "author_name": "Aronil98",
+        "author_url": "https://www.nexusmods.com/users/29311790",
+        "lang": "uk",
+        "mod_version": "1.2.0",
+        "trans_file_id": 434372,
+        "trans_mod_id": 102717,
+        "translation_version": "1.2.0"
+      },
+      "original_id": "17561",
+      "original_name": "UIExtensions"
+    },
+    "67637db2918a5de78afce8ac1df3de13": {
+      "best_translation": {
+        "author_name": "N1ro1x",
+        "author_url": "https://www.nexusmods.com/users/53490611",
+        "lang": "uk",
+        "mod_version": "3.0.0.0b",
+        "trans_file_id": 311808,
+        "trans_mod_id": 74364,
+        "translation_version": "3.0a"
+      },
+      "original_id": "718",
+      "original_name": "Immersive Patrols (Heavy)"
+    },
+    "7160f93571379fdd23354e840f267e77": {
+      "best_translation": {
+        "author_name": "Dimocracy",
+        "author_url": "https://www.nexusmods.com/users/112708783",
+        "lang": "uk",
+        "mod_version": "f1.09",
+        "trans_file_id": 515616,
+        "trans_mod_id": 122889,
+        "translation_version": "1.09"
+      },
+      "original_id": "63733",
+      "original_name": "Bandit Lines Expansion"
+    }
+  }
 }
