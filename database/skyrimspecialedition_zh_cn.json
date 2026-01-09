@@ -13,6 +13,19 @@
       "original_id": "21654",
       "original_name": "AI Overhaul SSE"
     },
+    "07bf6d44c852fa0b5a9237414cd7a555": {
+      "best_translation": {
+        "author_name": "3976SkyrimSE",
+        "author_url": "https://www.nexusmods.com/users/215826928",
+        "lang": "zh_cn",
+        "mod_version": "2.2.6.0",
+        "trans_file_id": 543115,
+        "trans_mod_id": 129450,
+        "translation_version": "2.2.6v0"
+      },
+      "original_id": "51614",
+      "original_name": "True Directional Movement - Modernized Third Person Gameplay"
+    },
     "1b69785f3bf133c98dad58b1e78f3bf9": {
       "best_translation": {
         "author_name": "TrMINl",
@@ -25,6 +38,19 @@
       },
       "original_id": "55653",
       "original_name": "Nether's Follower Framework"
+    },
+    "1cac8d6b9db56d655990c5bbefb60e71": {
+      "best_translation": {
+        "author_name": "Vozhuo",
+        "author_url": "https://www.nexusmods.com/users/120329978",
+        "lang": "zh_cn",
+        "mod_version": "f2.08",
+        "trans_file_id": 255662,
+        "trans_mod_id": 61705,
+        "translation_version": "2.08"
+      },
+      "original_id": "659",
+      "original_name": "Static Mesh Improvement Mod"
     },
     "2cff64fbdf784901980a3197140703fa": {
       "best_translation": {
@@ -52,6 +78,71 @@
       "original_id": "130418",
       "original_name": "Follower Dialogue Expansion - Faendal"
     },
+    "61c2d10fe03ad8461d79f7a52e15b538": {
+      "best_translation": {
+        "author_name": "Knighvy",
+        "author_url": "https://www.nexusmods.com/users/119437963",
+        "lang": "zh_cn",
+        "mod_version": "1.6.3.0",
+        "trans_file_id": 477105,
+        "trans_mod_id": 113119,
+        "translation_version": "1.0.0"
+      },
+      "original_id": "20035",
+      "original_name": "Lucien - Immersive Fully Voiced Male Follower"
+    },
+    "67637db2918a5de78afce8ac1df3de13": {
+      "best_translation": {
+        "author_name": "FirstAstor",
+        "author_url": "https://www.nexusmods.com/users/137393718",
+        "lang": "zh_cn",
+        "mod_version": "3.0.0.0b",
+        "trans_file_id": 306455,
+        "trans_mod_id": 73091,
+        "translation_version": "3.0a"
+      },
+      "original_id": "718",
+      "original_name": "Immersive Patrols (Heavy)"
+    },
+    "7160f93571379fdd23354e840f267e77": {
+      "best_translation": {
+        "author_name": "Kaluolei",
+        "author_url": "https://www.nexusmods.com/users/126036828",
+        "lang": "zh_cn",
+        "mod_version": "f1.09",
+        "trans_file_id": 479251,
+        "trans_mod_id": 78749,
+        "translation_version": "1.09"
+      },
+      "original_id": "63733",
+      "original_name": "Bandit Lines Expansion"
+    },
+    "72697075b4613ba7170e59b322199c53": {
+      "best_translation": {
+        "author_name": "Citachi0",
+        "author_url": "https://www.nexusmods.com/users/151871228",
+        "lang": "zh_cn",
+        "mod_version": "2.2.0.0",
+        "trans_file_id": 609798,
+        "trans_mod_id": 145782,
+        "translation_version": "2.2"
+      },
+      "original_id": "11278",
+      "original_name": "Song of the Green (Auri Follower)"
+    },
+    "7bb7555d65ebcd03c22ca4678f8e3267": {
+      "best_translation": {
+        "author_name": "LQvQ7",
+        "author_url": "https://www.nexusmods.com/users/159405598",
+        "lang": "zh_cn",
+        "mod_version": "10.2.1.0",
+        "trans_file_id": 702244,
+        "trans_mod_id": 167650,
+        "translation_version": "10.2.2"
+      },
+      "original_id": "1090",
+      "original_name": "Apocalypse - Magic of Skyrim"
+    },
     "81ee8e04b2108c4e0cb9ea98f43db14c": {
       "best_translation": {
         "author_name": "andaqin",
@@ -78,6 +169,19 @@
       "original_id": "124787",
       "original_name": "Follower Dialogue Expansion - Ysolda"
     },
+    "89e173ed2f5ed64b3e36a5fbc99131b8": {
+      "best_translation": {
+        "author_name": "CO2Cat",
+        "author_url": "https://www.nexusmods.com/users/64704981",
+        "lang": "zh_cn",
+        "mod_version": "2.5.1.0",
+        "trans_file_id": 596182,
+        "trans_mod_id": 142156,
+        "translation_version": "2.5.1"
+      },
+      "original_id": "57339",
+      "original_name": "Faster HDT-SMP"
+    },
     "8b692252bdb1d6b146f3228d2298489f": {
       "best_translation": {
         "author_name": "Citachi0",
@@ -90,6 +194,19 @@
       },
       "original_id": "92898",
       "original_name": "Lyssia (fully voiced follower and quest)"
+    },
+    "90b2dc35f2c7b965c5405c1e6f200dc1": {
+      "best_translation": {
+        "author_name": "dimensionsher",
+        "author_url": "https://www.nexusmods.com/users/182662398",
+        "lang": "zh_cn",
+        "mod_version": "1.76.0.0",
+        "trans_file_id": 557377,
+        "trans_mod_id": 132773,
+        "translation_version": "1.76"
+      },
+      "original_id": "50357",
+      "original_name": "Skyrim's Got Talent - Improve As a Bard"
     },
     "9285b6aacad2b34b4495b7fbae328912": {
       "best_translation": {
@@ -116,6 +233,32 @@
       },
       "original_id": "122487",
       "original_name": "Follower Dialogue Expansion - Uthgerd the Unbroken"
+    },
+    "9ad9119ac32f555a55ade5a549d577ad": {
+      "best_translation": {
+        "author_name": "KamikiYui",
+        "author_url": "https://www.nexusmods.com/users/99604778",
+        "lang": "zh_cn",
+        "mod_version": "1.3.9.0",
+        "trans_file_id": 673923,
+        "trans_mod_id": 161108,
+        "translation_version": "1.3.9"
+      },
+      "original_id": "52130",
+      "original_name": "Apothecary - An Alchemy Overhaul"
+    },
+    "a067e1de85b4aedf7719cd8219ffd5a5": {
+      "best_translation": {
+        "author_name": "tartemagne",
+        "author_url": "https://www.nexusmods.com/users/35535285",
+        "lang": "zh_cn",
+        "mod_version": "1.0.0.0",
+        "trans_file_id": 355827,
+        "trans_mod_id": 84111,
+        "translation_version": "1.0"
+      },
+      "original_id": "35785",
+      "original_name": "Expressive Facegen Morphs SE"
     },
     "a6d2cbb47c77768de1f428e386356d5a": {
       "best_translation": {
@@ -181,6 +324,19 @@
       },
       "original_id": "155510",
       "original_name": "Follower Dialogue Expansion - Faralda"
+    },
+    "c64f11a582270b99de2ea9fc3409d7a2": {
+      "best_translation": {
+        "author_name": "3976SkyrimSE",
+        "author_url": "https://www.nexusmods.com/users/215826928",
+        "lang": "zh_cn",
+        "mod_version": "1.1.9.0",
+        "trans_file_id": 620839,
+        "trans_mod_id": 148545,
+        "translation_version": "1.1.9v0"
+      },
+      "original_id": "62775",
+      "original_name": "TrueHUD - HUD Additions"
     },
     "c68d6874a124d94467738b912b8bd887": {
       "best_translation": {
