@@ -1,3 +1,173 @@
 {
-  "entries": {}
+  "entries": {
+    "07bf6d44c852fa0b5a9237414cd7a555": {
+      "best_translation": {
+        "author_name": "supercento",
+        "author_url": "https://www.nexusmods.com/users/3198127",
+        "lang": "es",
+        "mod_version": "2.2.6.0",
+        "trans_file_id": 539745,
+        "trans_mod_id": 112843,
+        "translation_version": "2.2.6"
+      },
+      "original_id": "51614",
+      "original_name": "True Directional Movement - Modernized Third Person Gameplay"
+    },
+    "1cac8d6b9db56d655990c5bbefb60e71": {
+      "best_translation": {
+        "author_name": "supercento",
+        "author_url": "https://www.nexusmods.com/users/3198127",
+        "lang": "es",
+        "mod_version": "f2.08",
+        "trans_file_id": 541049,
+        "trans_mod_id": 1480,
+        "translation_version": "2.08"
+      },
+      "original_id": "659",
+      "original_name": "Static Mesh Improvement Mod"
+    },
+    "3aca46b1190e5a31f9e1fab9573388db": {
+      "best_translation": {
+        "author_name": "supercento",
+        "author_url": "https://www.nexusmods.com/users/3198127",
+        "lang": "es",
+        "mod_version": "1.2.0",
+        "trans_file_id": 496756,
+        "trans_mod_id": 89636,
+        "translation_version": "1.2.0"
+      },
+      "original_id": "17561",
+      "original_name": "UIExtensions"
+    },
+    "61c2d10fe03ad8461d79f7a52e15b538": {
+      "best_translation": {
+        "author_name": "CiceronTraductor",
+        "author_url": "https://www.nexusmods.com/users/6648245",
+        "lang": "es",
+        "mod_version": "1.6.3.0",
+        "trans_file_id": 246052,
+        "trans_mod_id": 31886,
+        "translation_version": "1.6.3"
+      },
+      "original_id": "20035",
+      "original_name": "Lucien - Immersive Fully Voiced Male Follower"
+    },
+    "67637db2918a5de78afce8ac1df3de13": {
+      "best_translation": {
+        "author_name": "supercento",
+        "author_url": "https://www.nexusmods.com/users/3198127",
+        "lang": "es",
+        "mod_version": "3.0.0.0b",
+        "trans_file_id": 481276,
+        "trans_mod_id": 1481,
+        "translation_version": "3.0b"
+      },
+      "original_id": "718",
+      "original_name": "Immersive Patrols (Heavy)"
+    },
+    "7160f93571379fdd23354e840f267e77": {
+      "best_translation": {
+        "author_name": "discotutoss",
+        "author_url": "https://www.nexusmods.com/users/156504733",
+        "lang": "es",
+        "mod_version": "f1.09",
+        "trans_file_id": 462295,
+        "trans_mod_id": 83629,
+        "translation_version": "1.09"
+      },
+      "original_id": "63733",
+      "original_name": "Bandit Lines Expansion"
+    },
+    "761551965f8f989aee8048b576f35d2c": {
+      "best_translation": {
+        "author_name": "supercento",
+        "author_url": "https://www.nexusmods.com/users/3198127",
+        "lang": "es",
+        "mod_version": "f5.06",
+        "trans_file_id": 528685,
+        "trans_mod_id": 64169,
+        "translation_version": "5.06"
+      },
+      "original_id": "1988",
+      "original_name": "XP32 Maximum Skeleton Special Extended"
+    },
+    "7bb7555d65ebcd03c22ca4678f8e3267": {
+      "best_translation": {
+        "author_name": "ElRuti",
+        "author_url": "https://www.nexusmods.com/users/25778525",
+        "lang": "es",
+        "mod_version": "10.2.1.0",
+        "trans_file_id": 650882,
+        "trans_mod_id": 154377,
+        "translation_version": "10.2.1"
+      },
+      "original_id": "1090",
+      "original_name": "Apocalypse - Magic of Skyrim"
+    },
+    "90b2dc35f2c7b965c5405c1e6f200dc1": {
+      "best_translation": {
+        "author_name": "supercento",
+        "author_url": "https://www.nexusmods.com/users/3198127",
+        "lang": "es",
+        "mod_version": "1.76.0.0",
+        "trans_file_id": 624723,
+        "trans_mod_id": 149481,
+        "translation_version": "1.76"
+      },
+      "original_id": "50357",
+      "original_name": "Skyrim's Got Talent - Improve As a Bard"
+    },
+    "9ad9119ac32f555a55ade5a549d577ad": {
+      "best_translation": {
+        "author_name": "supercento",
+        "author_url": "https://www.nexusmods.com/users/3198127",
+        "lang": "es",
+        "mod_version": "1.3.9.0",
+        "trans_file_id": 511284,
+        "trans_mod_id": 52197,
+        "translation_version": "1.3.9"
+      },
+      "original_id": "52130",
+      "original_name": "Apothecary - An Alchemy Overhaul"
+    },
+    "a067e1de85b4aedf7719cd8219ffd5a5": {
+      "best_translation": {
+        "author_name": "supercento",
+        "author_url": "https://www.nexusmods.com/users/3198127",
+        "lang": "es",
+        "mod_version": "1.0.0.0",
+        "trans_file_id": 329371,
+        "trans_mod_id": 78242,
+        "translation_version": "1.0"
+      },
+      "original_id": "35785",
+      "original_name": "Expressive Facegen Morphs SE"
+    },
+    "c624e4f319737772aaa188f94daf532f": {
+      "best_translation": {
+        "author_name": "linqueo",
+        "author_url": "https://www.nexusmods.com/users/3580596",
+        "lang": "es",
+        "mod_version": "4.54.0.0",
+        "trans_file_id": 404337,
+        "trans_mod_id": 56508,
+        "translation_version": "4.54"
+      },
+      "original_id": "29194",
+      "original_name": "Interesting NPCs - 4.5 to 4.54 Update"
+    },
+    "c64f11a582270b99de2ea9fc3409d7a2": {
+      "best_translation": {
+        "author_name": "supercento",
+        "author_url": "https://www.nexusmods.com/users/3198127",
+        "lang": "es",
+        "mod_version": "1.1.9.0",
+        "trans_file_id": 476031,
+        "trans_mod_id": 112895,
+        "translation_version": "1.1.9"
+      },
+      "original_id": "62775",
+      "original_name": "TrueHUD - HUD Additions"
+    }
+  }
 }
